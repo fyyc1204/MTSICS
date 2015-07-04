@@ -1,0 +1,84 @@
+c:\documents and settings\dell\my documents\visual studio 2010\Projects\MTSICS\MT_SICS\bin\Debug\MT_SICS.dll
+c:\documents and settings\dell\my documents\visual studio 2010\Projects\MTSICS\MT_SICS\bin\Debug\MT_SICS.pdb
+c:\documents and settings\dell\my documents\visual studio 2010\Projects\MTSICS\MT_SICS\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\dell\my documents\visual studio 2010\Projects\MTSICS\MT_SICS\obj\Debug\MT_SICS.dll
+c:\documents and settings\dell\my documents\visual studio 2010\Projects\MTSICS\MT_SICS\obj\Debug\MT_SICS.pdb
+C:\MTSICS\MT_SICS\bin\Debug\MT_SICS.dll
+C:\MTSICS\MT_SICS\bin\Debug\MT_SICS.pdb
+C:\MTSICS\MT_SICS\obj\Debug\ResolveAssemblyReference.cache
+C:\MTSICS\MT_SICS\obj\Debug\MT_SICS.dll
+C:\MTSICS\MT_SICS\obj\Debug\MT_SICS.pdb
+D:\MTSICS\MT_SICS\bin\Debug\MT_SICS.dll
+D:\MTSICS\MT_SICS\bin\Debug\MT_SICS.pdb
+D:\MTSICS\MT_SICS\obj\Debug\ResolveAssemblyReference.cache
+D:\MTSICS\MT_SICS\obj\Debug\MT_SICS.dll
+D:\MTSICS\MT_SICS\obj\Debug\MT_SICS.pdb
+C:\Users\wu\Desktop\MTSICS1\MT_SICS\bin\Debug\MT_SICS.dll
+C:\Users\wu\Desktop\MTSICS1\MT_SICS\bin\Debug\MT_SICS.pdb
+C:\Users\wu\Desktop\MTSICS1\MT_SICS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wu\Desktop\MTSICS1\MT_SICS\obj\Debug\MT_SICS.dll
+C:\Users\wu\Desktop\MTSICS1\MT_SICS\obj\Debug\MT_SICS.pdb
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MT_SICS\bin\Debug\MT_SICS.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MT_SICS\bin\Debug\MT_SICS.pdb
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MT_SICS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MT_SICS\obj\Debug\MT_SICS.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MT_SICS\obj\Debug\MT_SICS.pdb
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MT_SICS\bin\Debug\MT_SICS.dll
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MT_SICS\bin\Debug\MT_SICS.pdb
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MT_SICS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MT_SICS\obj\Debug\MT_SICS.dll
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MT_SICS\obj\Debug\MT_SICS.pdb
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MT_SICS\bin\Debug\MT_SICS.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MT_SICS\bin\Debug\MT_SICS.pdb
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MT_SICS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MT_SICS\obj\Debug\MT_SICS.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MT_SICS\obj\Debug\MT_SICS.pdb
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MT_SICS\bin\Debug\MT_SICS.dll
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MT_SICS\bin\Debug\MT_SICS.pdb
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MT_SICS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MT_SICS\obj\Debug\MT_SICS.dll
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MT_SICS\obj\Debug\MT_SICS.pdb
+I:\MTSICS24号\MTSICS1\MT_SICS\bin\Debug\MT_SICS.dll
+I:\MTSICS24号\MTSICS1\MT_SICS\bin\Debug\MT_SICS.pdb
+I:\MTSICS24号\MTSICS1\MT_SICS\obj\Debug\ResolveAssemblyReference.cache
+I:\MTSICS24号\MTSICS1\MT_SICS\obj\Debug\MT_SICS.dll
+I:\MTSICS24号\MTSICS1\MT_SICS\obj\Debug\MT_SICS.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MT_SICS\bin\Debug\MT_SICS.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MT_SICS\bin\Debug\MT_SICS.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MT_SICS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MT_SICS\obj\Debug\MT_SICS.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MT_SICS\obj\Debug\MT_SICS.pdb
+E:\MTSICS1\MT_SICS\bin\Debug\MT_SICS.dll
+E:\MTSICS1\MT_SICS\bin\Debug\MT_SICS.pdb
+E:\MTSICS1\MT_SICS\obj\Debug\MT_SICS.dll
+E:\MTSICS1\MT_SICS\obj\Debug\MT_SICS.pdb
+E:\MTSICS2\MT_SICS\bin\Debug\MT_SICS.dll
+E:\MTSICS2\MT_SICS\bin\Debug\MT_SICS.pdb
+E:\MTSICS2\MT_SICS\obj\Debug\MT_SICS.dll
+E:\MTSICS2\MT_SICS\obj\Debug\MT_SICS.pdb
+E:\MTSICS4\MT_SICS\bin\Debug\MT_SICS.dll
+E:\MTSICS4\MT_SICS\bin\Debug\MT_SICS.pdb
+E:\MTSICS4\MT_SICS\obj\Debug\MT_SICS.dll
+E:\MTSICS4\MT_SICS\obj\Debug\MT_SICS.pdb
+L:\MTSICS4\MT_SICS\bin\Debug\MT_SICS.dll
+L:\MTSICS4\MT_SICS\bin\Debug\MT_SICS.pdb
+L:\MTSICS4\MT_SICS\obj\Debug\ResolveAssemblyReference.cache
+L:\MTSICS4\MT_SICS\obj\Debug\MT_SICS.dll
+L:\MTSICS4\MT_SICS\obj\Debug\MT_SICS.pdb
+N:\MTSICS6\MT_SICS\bin\Debug\MT_SICS.dll
+N:\MTSICS6\MT_SICS\bin\Debug\MT_SICS.pdb
+N:\MTSICS6\MT_SICS\obj\Debug\ResolveAssemblyReference.cache
+N:\MTSICS6\MT_SICS\obj\Debug\MT_SICS.dll
+N:\MTSICS6\MT_SICS\obj\Debug\MT_SICS.pdb
+E:\MTSICS8\MT_SICS\bin\Debug\MT_SICS.dll
+E:\MTSICS8\MT_SICS\bin\Debug\MT_SICS.pdb
+E:\MTSICS8\MT_SICS\obj\Debug\MT_SICS.dll
+E:\MTSICS8\MT_SICS\obj\Debug\MT_SICS.pdb
+E:\MTSICS\MT_SICS\bin\Debug\MT_SICS.dll
+E:\MTSICS\MT_SICS\bin\Debug\MT_SICS.pdb
+E:\MTSICS\MT_SICS\obj\Debug\MT_SICS.dll
+E:\MTSICS\MT_SICS\obj\Debug\MT_SICS.pdb
+C:\Users\DELL\Desktop\MTSICS\MT_SICS\bin\Debug\MT_SICS.dll
+C:\Users\DELL\Desktop\MTSICS\MT_SICS\bin\Debug\MT_SICS.pdb
+C:\Users\DELL\Desktop\MTSICS\MT_SICS\obj\Debug\MT_SICS.dll
+C:\Users\DELL\Desktop\MTSICS\MT_SICS\obj\Debug\MT_SICS.pdb

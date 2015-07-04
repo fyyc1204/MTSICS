@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" namespace="MTSICS_VO" assembly="MTSICS_VO">
+  <class name="Scale_Temp" table="scale_temp">
+    <composite-id name="Id" class="Scale_Temp_PK">
+      <key-property name="RegNo">
+        <column name="REGNO" length="30"/>
+      </key-property>
+      <key-property name="ProjectNo">
+        <column name="PROJECTNO" length="10"/>
+      </key-property>
+    </composite-id>
+
+    <property name="IndexNo">
+      <column name="INDEXNO" sql-type="int"></column>
+    </property>
+
+    <property name="ScaleNum">
+      <column name="SCALENUM" sql-type="decimal"></column>
+    </property>
+
+    <property name="ScaleDateTime">
+      <column name="SCALEDATETIME" sql-type="datetime"></column>
+    </property>
+  </class>
+</hibernate-mapping>

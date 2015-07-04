@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" namespace="MTSICS_VO" assembly="MTSICS_VO">
+  <class name="EY_MatrTable" table="ey_matrtable">
+    <id  name="Id">
+      <column name="id" sql-type="int"></column>
+      <generator class="assigned"/>
+    </id>
+    <property name="MatrNo">
+      <column name="matrNo" sql-type="varchar(30)"></column>
+    </property>
+      
+    <property name="Water_Range_Less">
+      <column name="water_range_less" sql-type="int"></column>
+    </property>
+    <property name="Water_Range_Grater">
+      <column name="water_range_grater" sql-type="int"></column>
+    </property>
+    <property name="MatrName">
+      <column name="matrName" sql-type="varchar(50"></column>
+    </property>
+    <property name="Water_Value">
+      <column name="water_value" sql-type="Decimal"></column>
+    </property>
+   
+   
+  
+</class>
+</hibernate-mapping>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" namespace="MTSICS_VO" assembly="MTSICS_VO">
+  <class name="EY_DataChange_Log" table="EY_DataChange_Log">
+    <id name="RegNo">
+      <column name="regno" sql-type="varchar(30)"></column>
+      <generator class="assigned"/>
+    </id>
+    <property name="CheckNo">
+      <column name="checkNo" sql-type="varchar(20)"></column>
+    </property>
+    <property name="MatrName">
+      <column name="matrname" sql-type="varchar(40)"></column>
+    </property>
+    <property name="Date">
+      <column name="date" sql-type="datetime"></column>
+    </property>
+    <property name="RowName">
+      <column name="rowname" sql-type="varchar(10)"></column>
+    </property>
+    <property name="OldValue">
+      <column name="oldvalue" sql-type="varchar(40)"></column>
+    </property>
+    <property name="NewValue">
+      <column name="newvalue" sql-type="varchar(40)"></column>
+    </property>
+    <property name="Operator1">
+      <column name="operator1" sql-type="varchar(20)"></column>
+    </property>
+  
+  </class>
+</hibernate-mapping>

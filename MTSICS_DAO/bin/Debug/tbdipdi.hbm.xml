@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" namespace="MTSICS_VO" assembly="MTSICS_VO">
+  <class name="tbdipdi" table="tbdipdi">
+
+
+    <id name="TimeStamp" column="timeStamp" type="Decimal"/>
+
+    <property name="SerialNo" column="serialNo" type="Decimal">
+    </property>
+    <property name="QueueId" column="queueId" type="String">
+    </property>
+    <property name="Header" column="header" type="String">
+    </property>
+    <property name="Data" column="data" type="String">
+    </property>
+    <property name="Status" column="status" type="String">
+    </property>
+    <property name="ProcessTime" column="processTime" type="String">
+    </property>
+    <property name="Description" column="description" type="String">
+    </property>
+    
+
+
+  </class>
+</hibernate-mapping>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" namespace="MTSICS_VO" assembly="MTSICS_VO">
+  <class name="tbdipdo" table="tbdipdo">
+
+
+    <id  name="TimeStamp">
+      <column  name="TIMESTAMP" sql-type="Decimal"></column>
+      <generator class="assigned"></generator>
+    </id>
+    <property name="SerialNo">
+      <column name="SERIALNO" sql-type="Decimal"></column>
+    </property>
+    <property name="QueueId">
+      <column name="QUEUEID" sql-type="String"></column>
+    </property>
+    <property name="Header">
+      <column name="HEADER"  sql-type="String"></column>
+    </property>
+    <property name="Data">
+      <column name="DATA" sql-type="String"></column>
+    </property>
+    <property name="Status">
+      <column name="STATUS" sql-type="String"></column>
+    </property>
+    <property name="ProcessTime">
+      <column name="PROCESSTIME" sql-type="String"></column>
+    </property>
+    <property name="Description">
+      <column name="DESCRIPTION" sql-type="String"></column>
+    </property>
+
+  </class>
+</hibernate-mapping>
+  

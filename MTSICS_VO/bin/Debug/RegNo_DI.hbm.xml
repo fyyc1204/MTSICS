@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" namespace="MTSICS_VO" assembly="MTSICS_VO">
+  <class name="RegNo_DI" table="REGNO_DI">
+    <id name="RegNo">
+      <column name="regNo" sql-type="varchar(30)"></column>
+      <generator class="assigned"/>
+    </id>
+    <property name="RevDateTime">
+      <column name="revDateTime" sql-type="datetime"></column>
+    </property>
+    <property name="Status">
+      <column name="status" sql-type="varchar(2)"></column>
+    </property>
+    <property name="CName">
+      <column name="cName" sql-type="varchar(20)"></column>
+    </property>
+    
+    <many-to-one name="Batch" class="Batch" cascade="all">
+      <column name="BATCHNO" sql-type="varchar(30)" ></column>
+    </many-to-one>
+  </class>
+</hibernate-mapping>

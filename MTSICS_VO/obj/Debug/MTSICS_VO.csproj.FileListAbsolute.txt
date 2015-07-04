@@ -1,0 +1,271 @@
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS_VO\bin\Debug\MTSICS_VO.dll
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS_VO\bin\Debug\MTSICS_VO.pdb
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS_VO\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS_VO\obj\Debug\MTSICS_VO.dll
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS_VO\obj\Debug\MTSICS_VO.pdb
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS_VO\bin\Debug\RegNo_DI.hbm.xml
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS_VO\bin\Debug\RegNo_Value.hbm.xml
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS_VO\bin\Debug\Scale_Temp.hbm.xml
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS_VO\bin\Debug\Batch.hbm.xml
+C:\MTSICS\MTSICS_VO\bin\Debug\RegNo_DI.hbm.xml
+C:\MTSICS\MTSICS_VO\bin\Debug\RegNo_Value.hbm.xml
+C:\MTSICS\MTSICS_VO\bin\Debug\Scale_Temp.hbm.xml
+C:\MTSICS\MTSICS_VO\bin\Debug\Batch.hbm.xml
+C:\MTSICS\MTSICS_VO\bin\Debug\MTSICS_VO.dll
+C:\MTSICS\MTSICS_VO\bin\Debug\MTSICS_VO.pdb
+C:\MTSICS\MTSICS_VO\obj\Debug\ResolveAssemblyReference.cache
+C:\MTSICS\MTSICS_VO\obj\Debug\MTSICS_VO.dll
+C:\MTSICS\MTSICS_VO\obj\Debug\MTSICS_VO.pdb
+C:\MTSICS\MTSICS_VO\bin\Debug\Scale_Value.hbm.xml
+D:\MTSICS\MTSICS_VO\bin\Debug\RegNo_DI.hbm.xml
+D:\MTSICS\MTSICS_VO\bin\Debug\RegNo_Value.hbm.xml
+D:\MTSICS\MTSICS_VO\bin\Debug\Batch.hbm.xml
+D:\MTSICS\MTSICS_VO\bin\Debug\Scale_Value.hbm.xml
+D:\MTSICS\MTSICS_VO\bin\Debug\MTSICS_VO.dll
+D:\MTSICS\MTSICS_VO\bin\Debug\MTSICS_VO.pdb
+D:\MTSICS\MTSICS_VO\obj\Debug\ResolveAssemblyReference.cache
+D:\MTSICS\MTSICS_VO\obj\Debug\MTSICS_VO.dll
+D:\MTSICS\MTSICS_VO\obj\Debug\MTSICS_VO.pdb
+D:\MTSICS\MTSICS_VO\bin\Debug\tbdipdi.hbm.xml
+C:\Users\wu\Desktop\MTSICS1\MTSICS_VO\bin\Debug\RegNo_DI.hbm.xml
+C:\Users\wu\Desktop\MTSICS1\MTSICS_VO\bin\Debug\RegNo_Value.hbm.xml
+C:\Users\wu\Desktop\MTSICS1\MTSICS_VO\bin\Debug\Batch.hbm.xml
+C:\Users\wu\Desktop\MTSICS1\MTSICS_VO\bin\Debug\Scale_Value.hbm.xml
+C:\Users\wu\Desktop\MTSICS1\MTSICS_VO\bin\Debug\tbdipdi.hbm.xml
+C:\Users\wu\Desktop\MTSICS1\MTSICS_VO\bin\Debug\MTSICS_VO.dll
+C:\Users\wu\Desktop\MTSICS1\MTSICS_VO\bin\Debug\MTSICS_VO.pdb
+C:\Users\wu\Desktop\MTSICS1\MTSICS_VO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wu\Desktop\MTSICS1\MTSICS_VO\obj\Debug\MTSICS_VO.dll
+C:\Users\wu\Desktop\MTSICS1\MTSICS_VO\obj\Debug\MTSICS_VO.pdb
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS_VO\bin\Debug\RegNo_DI.hbm.xml
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS_VO\bin\Debug\RegNo_Value.hbm.xml
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS_VO\bin\Debug\Batch.hbm.xml
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS_VO\bin\Debug\Scale_Value.hbm.xml
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS_VO\bin\Debug\tbdipdi.hbm.xml
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS_VO\bin\Debug\MTSICS_VO.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS_VO\bin\Debug\MTSICS_VO.pdb
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS_VO\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS_VO\obj\Debug\MTSICS_VO.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS_VO\obj\Debug\MTSICS_VO.pdb
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS_VO\bin\Debug\jiaotan.hbm.xml
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS_VO\bin\Debug\RegNo_DI.hbm.xml
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS_VO\bin\Debug\RegNo_Value.hbm.xml
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS_VO\bin\Debug\Batch.hbm.xml
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS_VO\bin\Debug\Scale_Value.hbm.xml
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS_VO\bin\Debug\tbdipdi.hbm.xml
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS_VO\bin\Debug\jiaotan.hbm.xml
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS_VO\bin\Debug\MTSICS_VO.dll
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS_VO\bin\Debug\MTSICS_VO.pdb
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS_VO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS_VO\obj\Debug\MTSICS_VO.dll
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS_VO\obj\Debug\MTSICS_VO.pdb
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS_VO\bin\Debug\RegNo_DI.hbm.xml
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS_VO\bin\Debug\RegNo_Value.hbm.xml
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS_VO\bin\Debug\Batch.hbm.xml
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS_VO\bin\Debug\Scale_Value.hbm.xml
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS_VO\bin\Debug\tbdipdi.hbm.xml
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS_VO\bin\Debug\jiaotan.hbm.xml
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS_VO\bin\Debug\MTSICS_VO.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS_VO\bin\Debug\MTSICS_VO.pdb
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS_VO\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS_VO\obj\Debug\MTSICS_VO.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS_VO\obj\Debug\MTSICS_VO.pdb
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\RegNo_DI.hbm.xml
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\RegNo_Value.hbm.xml
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\Batch.hbm.xml
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\Scale_Value.hbm.xml
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\tbdipdi.hbm.xml
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\jiaotan.hbm.xml
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\MTSICS_VO.dll
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\MTSICS_VO.pdb
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS_VO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS_VO\obj\Debug\MTSICS_VO.dll
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS_VO\obj\Debug\MTSICS_VO.pdb
+I:\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\RegNo_DI.hbm.xml
+I:\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\RegNo_Value.hbm.xml
+I:\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\Batch.hbm.xml
+I:\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\Scale_Value.hbm.xml
+I:\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\tbdipdi.hbm.xml
+I:\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\jiaotan.hbm.xml
+I:\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\MTSICS_VO.dll
+I:\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\MTSICS_VO.pdb
+I:\MTSICS24号\MTSICS1\MTSICS_VO\obj\Debug\ResolveAssemblyReference.cache
+I:\MTSICS24号\MTSICS1\MTSICS_VO\obj\Debug\MTSICS_VO.dll
+I:\MTSICS24号\MTSICS1\MTSICS_VO\obj\Debug\MTSICS_VO.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\RegNo_DI.hbm.xml
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\RegNo_Value.hbm.xml
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\Batch.hbm.xml
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\Scale_Value.hbm.xml
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\tbdipdi.hbm.xml
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\jiaotan.hbm.xml
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\MTSICS_VO.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\MTSICS_VO.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS_VO\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS_VO\obj\Debug\MTSICS_VO.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS_VO\obj\Debug\MTSICS_VO.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS_VO\bin\Debug\Login.hbm.xml
+E:\MTSICS1\MTSICS_VO\bin\Debug\RegNo_DI.hbm.xml
+E:\MTSICS1\MTSICS_VO\bin\Debug\RegNo_Value.hbm.xml
+E:\MTSICS1\MTSICS_VO\bin\Debug\Batch.hbm.xml
+E:\MTSICS1\MTSICS_VO\bin\Debug\Scale_Value.hbm.xml
+E:\MTSICS1\MTSICS_VO\bin\Debug\tbdipdi.hbm.xml
+E:\MTSICS1\MTSICS_VO\bin\Debug\jiaotan.hbm.xml
+E:\MTSICS1\MTSICS_VO\bin\Debug\Login.hbm.xml
+E:\MTSICS1\MTSICS_VO\bin\Debug\MTSICS_VO.dll
+E:\MTSICS1\MTSICS_VO\bin\Debug\MTSICS_VO.pdb
+E:\MTSICS1\MTSICS_VO\obj\Debug\MTSICS_VO.dll
+E:\MTSICS1\MTSICS_VO\obj\Debug\MTSICS_VO.pdb
+E:\MTSICS2\MTSICS_VO\bin\Debug\RegNo_DI.hbm.xml
+E:\MTSICS2\MTSICS_VO\bin\Debug\RegNo_Value.hbm.xml
+E:\MTSICS2\MTSICS_VO\bin\Debug\Batch.hbm.xml
+E:\MTSICS2\MTSICS_VO\bin\Debug\Scale_Value.hbm.xml
+E:\MTSICS2\MTSICS_VO\bin\Debug\tbdipdi.hbm.xml
+E:\MTSICS2\MTSICS_VO\bin\Debug\jiaotan.hbm.xml
+E:\MTSICS2\MTSICS_VO\bin\Debug\Login.hbm.xml
+E:\MTSICS2\MTSICS_VO\bin\Debug\MTSICS_VO.dll
+E:\MTSICS2\MTSICS_VO\bin\Debug\MTSICS_VO.pdb
+E:\MTSICS2\MTSICS_VO\obj\Debug\MTSICS_VO.dll
+E:\MTSICS2\MTSICS_VO\obj\Debug\MTSICS_VO.pdb
+E:\MTSICS2\MTSICS_VO\bin\Debug\ey_regno_di.hbm.xml
+E:\MTSICS3\MTSICS_VO\bin\Debug\RegNo_DI.hbm.xml
+E:\MTSICS3\MTSICS_VO\bin\Debug\RegNo_Value.hbm.xml
+E:\MTSICS3\MTSICS_VO\bin\Debug\Batch.hbm.xml
+E:\MTSICS3\MTSICS_VO\bin\Debug\Scale_Value.hbm.xml
+E:\MTSICS3\MTSICS_VO\bin\Debug\tbdipdi.hbm.xml
+E:\MTSICS3\MTSICS_VO\bin\Debug\jiaotan.hbm.xml
+E:\MTSICS3\MTSICS_VO\bin\Debug\Login.hbm.xml
+E:\MTSICS3\MTSICS_VO\bin\Debug\EY_RegNo_DI.hbm.xml
+E:\MTSICS3\MTSICS_VO\bin\Debug\MTSICS_VO.dll
+E:\MTSICS3\MTSICS_VO\bin\Debug\MTSICS_VO.pdb
+E:\MTSICS3\MTSICS_VO\obj\Debug\MTSICS_VO.dll
+E:\MTSICS3\MTSICS_VO\obj\Debug\MTSICS_VO.pdb
+E:\MTSICS3\MTSICS_VO\bin\Debug\EY_Scale_Value.hbm.xml
+E:\MTSICS3\MTSICS_VO\bin\Debug\EY_Batch.hbm.xml
+E:\MTSICS3\MTSICS_VO\bin\Debug\Iesi.Collections.dll
+E:\MTSICS3\MTSICS_VO\obj\Debug\MTSICS_VO.csprojResolveAssemblyReference.cache
+E:\MTSICS4\MTSICS_VO\obj\Debug\MTSICS_VO.csprojResolveAssemblyReference.cache
+E:\MTSICS4\MTSICS_VO\obj\Debug\MTSICS_VO.dll
+E:\MTSICS4\MTSICS_VO\obj\Debug\MTSICS_VO.pdb
+E:\MTSICS4\MTSICS_VO\bin\Debug\RegNo_DI.hbm.xml
+E:\MTSICS4\MTSICS_VO\bin\Debug\RegNo_Value.hbm.xml
+E:\MTSICS4\MTSICS_VO\bin\Debug\Batch.hbm.xml
+E:\MTSICS4\MTSICS_VO\bin\Debug\Scale_Value.hbm.xml
+E:\MTSICS4\MTSICS_VO\bin\Debug\tbdipdi.hbm.xml
+E:\MTSICS4\MTSICS_VO\bin\Debug\jiaotan.hbm.xml
+E:\MTSICS4\MTSICS_VO\bin\Debug\Login.hbm.xml
+E:\MTSICS4\MTSICS_VO\bin\Debug\EY_RegNo_DI.hbm.xml
+E:\MTSICS4\MTSICS_VO\bin\Debug\EY_Scale_Value.hbm.xml
+E:\MTSICS4\MTSICS_VO\bin\Debug\EY_Batch.hbm.xml
+E:\MTSICS4\MTSICS_VO\bin\Debug\EY_MatrTable.hbm.xml
+E:\MTSICS4\MTSICS_VO\bin\Debug\MTSICS_VO.dll
+E:\MTSICS4\MTSICS_VO\bin\Debug\MTSICS_VO.pdb
+E:\MTSICS4\MTSICS_VO\bin\Debug\Iesi.Collections.dll
+L:\MTSICS4\MTSICS_VO\bin\Debug\RegNo_DI.hbm.xml
+L:\MTSICS4\MTSICS_VO\bin\Debug\RegNo_Value.hbm.xml
+L:\MTSICS4\MTSICS_VO\bin\Debug\Batch.hbm.xml
+L:\MTSICS4\MTSICS_VO\bin\Debug\Scale_Value.hbm.xml
+L:\MTSICS4\MTSICS_VO\bin\Debug\tbdipdi.hbm.xml
+L:\MTSICS4\MTSICS_VO\bin\Debug\jiaotan.hbm.xml
+L:\MTSICS4\MTSICS_VO\bin\Debug\Login.hbm.xml
+L:\MTSICS4\MTSICS_VO\bin\Debug\EY_RegNo_DI.hbm.xml
+L:\MTSICS4\MTSICS_VO\bin\Debug\EY_Scale_Value.hbm.xml
+L:\MTSICS4\MTSICS_VO\bin\Debug\EY_Batch.hbm.xml
+L:\MTSICS4\MTSICS_VO\bin\Debug\EY_MatrTable.hbm.xml
+L:\MTSICS4\MTSICS_VO\bin\Debug\MTSICS_VO.dll
+L:\MTSICS4\MTSICS_VO\bin\Debug\MTSICS_VO.pdb
+L:\MTSICS4\MTSICS_VO\bin\Debug\Iesi.Collections.dll
+L:\MTSICS4\MTSICS_VO\obj\Debug\ResolveAssemblyReference.cache
+L:\MTSICS4\MTSICS_VO\obj\Debug\MTSICS_VO.dll
+L:\MTSICS4\MTSICS_VO\obj\Debug\MTSICS_VO.pdb
+N:\MTSICS6\MTSICS_VO\bin\Debug\RegNo_DI.hbm.xml
+N:\MTSICS6\MTSICS_VO\bin\Debug\RegNo_Value.hbm.xml
+N:\MTSICS6\MTSICS_VO\bin\Debug\Batch.hbm.xml
+N:\MTSICS6\MTSICS_VO\bin\Debug\Scale_Value.hbm.xml
+N:\MTSICS6\MTSICS_VO\bin\Debug\tbdipdi.hbm.xml
+N:\MTSICS6\MTSICS_VO\bin\Debug\jiaotan.hbm.xml
+N:\MTSICS6\MTSICS_VO\bin\Debug\Login.hbm.xml
+N:\MTSICS6\MTSICS_VO\bin\Debug\EY_RegNo_DI.hbm.xml
+N:\MTSICS6\MTSICS_VO\bin\Debug\EY_Scale_Value.hbm.xml
+N:\MTSICS6\MTSICS_VO\bin\Debug\EY_Batch.hbm.xml
+N:\MTSICS6\MTSICS_VO\bin\Debug\EY_MatrTable.hbm.xml
+N:\MTSICS6\MTSICS_VO\bin\Debug\MTSICS_VO.dll
+N:\MTSICS6\MTSICS_VO\bin\Debug\MTSICS_VO.pdb
+N:\MTSICS6\MTSICS_VO\bin\Debug\Iesi.Collections.dll
+N:\MTSICS6\MTSICS_VO\obj\Debug\ResolveAssemblyReference.cache
+N:\MTSICS6\MTSICS_VO\obj\Debug\MTSICS_VO.dll
+N:\MTSICS6\MTSICS_VO\obj\Debug\MTSICS_VO.pdb
+E:\MTSICS7\MTSICS_VO\bin\Debug\RegNo_DI.hbm.xml
+E:\MTSICS7\MTSICS_VO\bin\Debug\RegNo_Value.hbm.xml
+E:\MTSICS7\MTSICS_VO\bin\Debug\Batch.hbm.xml
+E:\MTSICS7\MTSICS_VO\bin\Debug\Scale_Value.hbm.xml
+E:\MTSICS7\MTSICS_VO\bin\Debug\tbdipdi.hbm.xml
+E:\MTSICS7\MTSICS_VO\bin\Debug\jiaotan.hbm.xml
+E:\MTSICS7\MTSICS_VO\bin\Debug\Login.hbm.xml
+E:\MTSICS7\MTSICS_VO\bin\Debug\EY_RegNo_DI.hbm.xml
+E:\MTSICS7\MTSICS_VO\bin\Debug\EY_Scale_Value.hbm.xml
+E:\MTSICS7\MTSICS_VO\bin\Debug\EY_Batch.hbm.xml
+E:\MTSICS7\MTSICS_VO\bin\Debug\EY_MatrTable.hbm.xml
+E:\MTSICS7\MTSICS_VO\bin\Debug\MTSICS_VO.dll
+E:\MTSICS7\MTSICS_VO\bin\Debug\MTSICS_VO.pdb
+E:\MTSICS7\MTSICS_VO\bin\Debug\Iesi.Collections.dll
+E:\MTSICS7\MTSICS_VO\obj\Debug\MTSICS_VO.csprojResolveAssemblyReference.cache
+E:\MTSICS7\MTSICS_VO\obj\Debug\MTSICS_VO.dll
+E:\MTSICS7\MTSICS_VO\obj\Debug\MTSICS_VO.pdb
+E:\MTSICS7\MTSICS_VO\bin\Debug\EY_DataChange_Log.hbm.xml
+E:\MTSICS8\MTSICS_VO\bin\Debug\RegNo_DI.hbm.xml
+E:\MTSICS8\MTSICS_VO\bin\Debug\RegNo_Value.hbm.xml
+E:\MTSICS8\MTSICS_VO\bin\Debug\Batch.hbm.xml
+E:\MTSICS8\MTSICS_VO\bin\Debug\Scale_Value.hbm.xml
+E:\MTSICS8\MTSICS_VO\bin\Debug\tbdipdi.hbm.xml
+E:\MTSICS8\MTSICS_VO\bin\Debug\jiaotan.hbm.xml
+E:\MTSICS8\MTSICS_VO\bin\Debug\Login.hbm.xml
+E:\MTSICS8\MTSICS_VO\bin\Debug\EY_RegNo_DI.hbm.xml
+E:\MTSICS8\MTSICS_VO\bin\Debug\EY_Scale_Value.hbm.xml
+E:\MTSICS8\MTSICS_VO\bin\Debug\EY_Batch.hbm.xml
+E:\MTSICS8\MTSICS_VO\bin\Debug\EY_MatrTable.hbm.xml
+E:\MTSICS8\MTSICS_VO\bin\Debug\EY_DataChange_Log.hbm.xml
+E:\MTSICS8\MTSICS_VO\bin\Debug\MTSICS_VO.dll
+E:\MTSICS8\MTSICS_VO\bin\Debug\MTSICS_VO.pdb
+E:\MTSICS8\MTSICS_VO\bin\Debug\Iesi.Collections.dll
+E:\MTSICS8\MTSICS_VO\obj\Debug\MTSICS_VO.csprojResolveAssemblyReference.cache
+E:\MTSICS8\MTSICS_VO\obj\Debug\MTSICS_VO.dll
+E:\MTSICS8\MTSICS_VO\obj\Debug\MTSICS_VO.pdb
+E:\MTSICS8\MTSICS_VO\bin\Debug\tbdipdo.hbm.xml
+E:\MTSICS\MTSICS_VO\bin\Debug\RegNo_DI.hbm.xml
+E:\MTSICS\MTSICS_VO\bin\Debug\RegNo_Value.hbm.xml
+E:\MTSICS\MTSICS_VO\bin\Debug\Batch.hbm.xml
+E:\MTSICS\MTSICS_VO\bin\Debug\Scale_Value.hbm.xml
+E:\MTSICS\MTSICS_VO\bin\Debug\tbdipdi.hbm.xml
+E:\MTSICS\MTSICS_VO\bin\Debug\jiaotan.hbm.xml
+E:\MTSICS\MTSICS_VO\bin\Debug\Login.hbm.xml
+E:\MTSICS\MTSICS_VO\bin\Debug\EY_RegNo_DI.hbm.xml
+E:\MTSICS\MTSICS_VO\bin\Debug\EY_Scale_Value.hbm.xml
+E:\MTSICS\MTSICS_VO\bin\Debug\EY_Batch.hbm.xml
+E:\MTSICS\MTSICS_VO\bin\Debug\EY_MatrTable.hbm.xml
+E:\MTSICS\MTSICS_VO\bin\Debug\EY_DataChange_Log.hbm.xml
+E:\MTSICS\MTSICS_VO\bin\Debug\tbdipdo.hbm.xml
+E:\MTSICS\MTSICS_VO\bin\Debug\MTSICS_VO.dll
+E:\MTSICS\MTSICS_VO\bin\Debug\MTSICS_VO.pdb
+E:\MTSICS\MTSICS_VO\bin\Debug\Iesi.Collections.dll
+E:\MTSICS\MTSICS_VO\obj\Debug\MTSICS_VO.csprojResolveAssemblyReference.cache
+E:\MTSICS\MTSICS_VO\obj\Debug\MTSICS_VO.dll
+E:\MTSICS\MTSICS_VO\obj\Debug\MTSICS_VO.pdb
+C:\Users\DELL\Desktop\MTSICS\MTSICS_VO\bin\Debug\RegNo_DI.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS_VO\bin\Debug\RegNo_Value.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS_VO\bin\Debug\Batch.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS_VO\bin\Debug\Scale_Value.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS_VO\bin\Debug\tbdipdi.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS_VO\bin\Debug\jiaotan.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS_VO\bin\Debug\Login.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS_VO\bin\Debug\EY_RegNo_DI.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS_VO\bin\Debug\EY_Scale_Value.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS_VO\bin\Debug\EY_Batch.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS_VO\bin\Debug\EY_MatrTable.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS_VO\bin\Debug\EY_DataChange_Log.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS_VO\bin\Debug\tbdipdo.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS_VO\bin\Debug\MTSICS_VO.dll
+C:\Users\DELL\Desktop\MTSICS\MTSICS_VO\bin\Debug\MTSICS_VO.pdb
+C:\Users\DELL\Desktop\MTSICS\MTSICS_VO\bin\Debug\Iesi.Collections.dll
+C:\Users\DELL\Desktop\MTSICS\MTSICS_VO\obj\Debug\MTSICS_VO.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\MTSICS\MTSICS_VO\obj\Debug\MTSICS_VO.dll
+C:\Users\DELL\Desktop\MTSICS\MTSICS_VO\obj\Debug\MTSICS_VO.pdb

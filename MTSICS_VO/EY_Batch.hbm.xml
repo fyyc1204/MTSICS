@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" namespace="MTSICS_VO" assembly="MTSICS_VO">
+  <class name="EY_Batch" table="ey_batch">
+    <id name="BatchNo">
+      <column name="BATCHNO" sql-type="varchar(30)"></column>
+      <generator class="assigned"/>
+    </id>
+    <property name="CreateTime">
+      <column name="CREATEDATETIME" sql-type="datetime"></column>
+    </property>
+    <bag name="BatchChild" table ="EY_REGNO_DI" cascade="save-update" inverse="false">
+      <key column="batchNo"/>
+      <one-to-many class="EY_RegNo_DI"/>
+    </bag>
+  </class>
+</hibernate-mapping>

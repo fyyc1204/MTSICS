@@ -1,0 +1,5 @@
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MT_SICS\bin\Release\MT_SICS.dll
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MT_SICS\bin\Release\MT_SICS.pdb
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MT_SICS\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MT_SICS\obj\Release\MT_SICS.dll
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MT_SICS\obj\Release\MT_SICS.pdb

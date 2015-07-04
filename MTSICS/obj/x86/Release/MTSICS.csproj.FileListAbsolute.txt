@@ -1,0 +1,7 @@
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Release\MTSICS.exe.config
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\obj\x86\Release\MTSICS.Form1.resources
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\obj\x86\Release\MTSICS.Form2.resources
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\obj\x86\Release\MTSICS.Properties.Resources.resources
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\obj\x86\Release\GenerateResource.write.1.tlog

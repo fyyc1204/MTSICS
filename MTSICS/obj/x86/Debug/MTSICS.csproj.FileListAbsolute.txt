@@ -1,0 +1,849 @@
+c:\documents and settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\MTSICS.exe
+c:\documents and settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\MTSICS.pdb
+c:\documents and settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\obj\x86\Debug\MTSICS.Form1.resources
+c:\documents and settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\obj\x86\Debug\MTSICS.Properties.Resources.resources
+c:\documents and settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\obj\x86\Debug\MTSICS.exe
+c:\documents and settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\obj\x86\Debug\MTSICS.pdb
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\MT_SICS.dll
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\MT_SICS.pdb
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\DevComponents.Instrumentation.dll
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\MTSICS.exe.config
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\Iesi.Collections.dll
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\MTSICS_VO.dll
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\NHibernate.dll
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\MTSICS_VO.pdb
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\Iesi.Collections.pdb
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\Iesi.Collections.xml
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\NHibernate.pdb
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\NHibernate.xml
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\RegNo_DI.hbm.xml
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\RegNo_Value.hbm.xml
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\Scale_Temp.hbm.xml
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\NHibernate.ByteCode.LinFu.dll
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\LinFu.DynamicProxy.dll
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\NHibernate.ByteCode.LinFu.pdb
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\NHibernate.ByteCode.LinFu.xml
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\MTSICS_DAO.dll
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\MTSICS_DAO.pdb
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\obj\x86\Debug\MTSICS.MainFrm.resources
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS\bin\Debug\Batch.hbm.xml
+C:\MTSICS\MTSICS\bin\Debug\MTSICS.exe.config
+C:\MTSICS\MTSICS\obj\x86\Debug\MTSICS.exe
+C:\MTSICS\MTSICS\obj\x86\Debug\MTSICS.pdb
+C:\MTSICS\MTSICS\bin\Debug\RegNo_DI.hbm.xml
+C:\MTSICS\MTSICS\bin\Debug\RegNo_Value.hbm.xml
+C:\MTSICS\MTSICS\bin\Debug\Scale_Temp.hbm.xml
+C:\MTSICS\MTSICS\bin\Debug\Batch.hbm.xml
+C:\MTSICS\MTSICS\bin\Debug\MTSICS.exe
+C:\MTSICS\MTSICS\bin\Debug\MTSICS.pdb
+C:\MTSICS\MTSICS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\MTSICS\MTSICS\bin\Debug\DevComponents.Instrumentation.dll
+C:\MTSICS\MTSICS\bin\Debug\MTSICS_DAO.dll
+C:\MTSICS\MTSICS\bin\Debug\MTSICS_VO.dll
+C:\MTSICS\MTSICS\bin\Debug\MT_SICS.dll
+C:\MTSICS\MTSICS\bin\Debug\MTSICS_DAO.pdb
+C:\MTSICS\MTSICS\bin\Debug\MTSICS_VO.pdb
+C:\MTSICS\MTSICS\bin\Debug\MT_SICS.pdb
+C:\MTSICS\MTSICS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MTSICS\MTSICS\obj\x86\Debug\MTSICS.Form1.resources
+C:\MTSICS\MTSICS\obj\x86\Debug\MTSICS.MainFrm.resources
+C:\MTSICS\MTSICS\obj\x86\Debug\MTSICS.Properties.Resources.resources
+C:\MTSICS\MTSICS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\MTSICS\MTSICS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\MTSICS\MTSICS\bin\Debug\MySql.Data.dll
+C:\MTSICS\MTSICS\bin\Debug\MySql.Data.Entity.dll
+C:\MTSICS\MTSICS\bin\Debug\Scale_Value.hbm.xml
+C:\MTSICS\MTSICS\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\MTSICS\MTSICS\bin\Debug\DevComponents.Instrumentation.Design.dll
+C:\MTSICS\MTSICS\bin\Debug\toolkit.dll
+C:\MTSICS\MTSICS\bin\Debug\toolkit.pdb
+C:\MTSICS\MTSICS\bin\Debug\LinFu.DynamicProxy.dll
+D:\MTSICS\MTSICS\bin\Debug\MTSICS.exe.config
+D:\MTSICS\MTSICS\obj\x86\Debug\MTSICS.exe
+D:\MTSICS\MTSICS\obj\x86\Debug\MTSICS.pdb
+D:\MTSICS\MTSICS\bin\Debug\RegNo_DI.hbm.xml
+D:\MTSICS\MTSICS\bin\Debug\RegNo_Value.hbm.xml
+D:\MTSICS\MTSICS\bin\Debug\Batch.hbm.xml
+D:\MTSICS\MTSICS\bin\Debug\Scale_Value.hbm.xml
+D:\MTSICS\MTSICS\bin\Debug\MTSICS.exe
+D:\MTSICS\MTSICS\bin\Debug\MTSICS.pdb
+D:\MTSICS\MTSICS\bin\Debug\DevComponents.DotNetBar.Design.dll
+D:\MTSICS\MTSICS\bin\Debug\DevComponents.DotNetBar2.dll
+D:\MTSICS\MTSICS\bin\Debug\DevComponents.Instrumentation.Design.dll
+D:\MTSICS\MTSICS\bin\Debug\DevComponents.Instrumentation.dll
+D:\MTSICS\MTSICS\bin\Debug\MTSICS_DAO.dll
+D:\MTSICS\MTSICS\bin\Debug\MTSICS_VO.dll
+D:\MTSICS\MTSICS\bin\Debug\MT_SICS.dll
+D:\MTSICS\MTSICS\bin\Debug\toolkit.dll
+D:\MTSICS\MTSICS\bin\Debug\LinFu.DynamicProxy.dll
+D:\MTSICS\MTSICS\bin\Debug\MTSICS_DAO.pdb
+D:\MTSICS\MTSICS\bin\Debug\MTSICS_VO.pdb
+D:\MTSICS\MTSICS\bin\Debug\MT_SICS.pdb
+D:\MTSICS\MTSICS\bin\Debug\toolkit.pdb
+D:\MTSICS\MTSICS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MTSICS\MTSICS\obj\x86\Debug\MTSICS.Form1.resources
+D:\MTSICS\MTSICS\obj\x86\Debug\MTSICS.MainFrm.resources
+D:\MTSICS\MTSICS\obj\x86\Debug\MTSICS.Properties.Resources.resources
+D:\MTSICS\MTSICS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MTSICS\MTSICS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MTSICS\MTSICS\bin\Debug\tbdipdi.hbm.xml
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\MTSICS.exe.config
+C:\Users\wu\Desktop\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.exe
+C:\Users\wu\Desktop\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.pdb
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\RegNo_DI.hbm.xml
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\RegNo_Value.hbm.xml
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\Batch.hbm.xml
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\Scale_Value.hbm.xml
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\tbdipdi.hbm.xml
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\MTSICS.exe
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\MTSICS.pdb
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\DevComponents.Instrumentation.Design.dll
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\MTSICS_DAO.dll
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\MTSICS_VO.dll
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\MT_SICS.dll
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\MySql.Data.dll
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\MySql.Data.Entity.dll
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\toolkit.dll
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\LinFu.DynamicProxy.dll
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\MTSICS_DAO.pdb
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\MTSICS_VO.pdb
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\MT_SICS.pdb
+C:\Users\wu\Desktop\MTSICS1\MTSICS\bin\Debug\toolkit.pdb
+C:\Users\wu\Desktop\MTSICS1\MTSICS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wu\Desktop\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.Form1.resources
+C:\Users\wu\Desktop\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.MainFrm.resources
+C:\Users\wu\Desktop\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.Properties.Resources.resources
+C:\Users\wu\Desktop\MTSICS1\MTSICS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wu\Desktop\MTSICS1\MTSICS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\bin\Debug\MTSICS.exe.config
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.exe
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.pdb
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\bin\Debug\RegNo_DI.hbm.xml
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\bin\Debug\RegNo_Value.hbm.xml
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\bin\Debug\Batch.hbm.xml
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\bin\Debug\Scale_Value.hbm.xml
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\bin\Debug\tbdipdi.hbm.xml
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\bin\Debug\MTSICS.exe
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\bin\Debug\MTSICS.pdb
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\bin\Debug\DevComponents.Instrumentation.Design.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\bin\Debug\DevComponents.Instrumentation.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\bin\Debug\MTSICS_DAO.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\bin\Debug\MTSICS_VO.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\bin\Debug\MT_SICS.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\bin\Debug\toolkit.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\bin\Debug\LinFu.DynamicProxy.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\bin\Debug\MTSICS_DAO.pdb
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\bin\Debug\MTSICS_VO.pdb
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\bin\Debug\MT_SICS.pdb
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\bin\Debug\toolkit.pdb
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.Form1.resources
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.MainFrm.resources
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\MTSICS1\MTSICS\bin\Debug\jiaotan.hbm.xml
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\MTSICS.exe.config
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.exe
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.pdb
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\RegNo_DI.hbm.xml
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\RegNo_Value.hbm.xml
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\Batch.hbm.xml
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\Scale_Value.hbm.xml
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\tbdipdi.hbm.xml
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\jiaotan.hbm.xml
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\MTSICS.exe
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\MTSICS.pdb
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\DevComponents.Instrumentation.Design.dll
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\MTSICS_DAO.dll
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\MTSICS_VO.dll
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\MT_SICS.dll
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\MySql.Data.dll
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\MySql.Data.Entity.dll
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\toolkit.dll
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\LinFu.DynamicProxy.dll
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\MTSICS_DAO.pdb
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\MTSICS_VO.pdb
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\MT_SICS.pdb
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\bin\Debug\toolkit.pdb
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.Form1.resources
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.MainFrm.resources
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.Properties.Resources.resources
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\MTSICS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\bin\Debug\RegNo_DI.hbm.xml
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\bin\Debug\RegNo_Value.hbm.xml
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\bin\Debug\Batch.hbm.xml
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\bin\Debug\Scale_Value.hbm.xml
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\bin\Debug\tbdipdi.hbm.xml
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\bin\Debug\jiaotan.hbm.xml
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\bin\Debug\MTSICS.exe.config
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\bin\Debug\MTSICS.exe
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\bin\Debug\MTSICS.pdb
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\bin\Debug\DevComponents.Instrumentation.Design.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\bin\Debug\DevComponents.Instrumentation.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\bin\Debug\MTSICS_DAO.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\bin\Debug\MTSICS_VO.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\bin\Debug\MT_SICS.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\bin\Debug\toolkit.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\bin\Debug\LinFu.DynamicProxy.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\bin\Debug\MTSICS_DAO.pdb
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\bin\Debug\MTSICS_VO.pdb
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\bin\Debug\MT_SICS.pdb
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\bin\Debug\toolkit.pdb
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.Form1.resources
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.MainFrm.resources
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.exe
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.pdb
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MTSICS.exe.config
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.exe
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.pdb
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\RegNo_DI.hbm.xml
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\RegNo_Value.hbm.xml
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\Batch.hbm.xml
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\Scale_Value.hbm.xml
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\tbdipdi.hbm.xml
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\jiaotan.hbm.xml
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MTSICS.exe
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MTSICS.pdb
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\DevComponents.Instrumentation.Design.dll
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MTSICS_DAO.dll
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MTSICS_VO.dll
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MT_SICS.dll
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MySql.Data.dll
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MySql.Data.Entity.dll
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\toolkit.dll
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\LinFu.DynamicProxy.dll
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MTSICS_DAO.pdb
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MTSICS_VO.pdb
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MT_SICS.pdb
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\bin\Debug\toolkit.pdb
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.Form1.resources
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.MainFrm.resources
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.Properties.Resources.resources
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MTSICS.exe.config
+I:\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.exe
+I:\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.pdb
+I:\MTSICS24号\MTSICS1\MTSICS\bin\Debug\RegNo_DI.hbm.xml
+I:\MTSICS24号\MTSICS1\MTSICS\bin\Debug\RegNo_Value.hbm.xml
+I:\MTSICS24号\MTSICS1\MTSICS\bin\Debug\Batch.hbm.xml
+I:\MTSICS24号\MTSICS1\MTSICS\bin\Debug\Scale_Value.hbm.xml
+I:\MTSICS24号\MTSICS1\MTSICS\bin\Debug\tbdipdi.hbm.xml
+I:\MTSICS24号\MTSICS1\MTSICS\bin\Debug\jiaotan.hbm.xml
+I:\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MTSICS.exe
+I:\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MTSICS.pdb
+I:\MTSICS24号\MTSICS1\MTSICS\bin\Debug\DevComponents.DotNetBar.Design.dll
+I:\MTSICS24号\MTSICS1\MTSICS\bin\Debug\DevComponents.DotNetBar2.dll
+I:\MTSICS24号\MTSICS1\MTSICS\bin\Debug\DevComponents.Instrumentation.Design.dll
+I:\MTSICS24号\MTSICS1\MTSICS\bin\Debug\DevComponents.Instrumentation.dll
+I:\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MTSICS_DAO.dll
+I:\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MTSICS_VO.dll
+I:\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MT_SICS.dll
+I:\MTSICS24号\MTSICS1\MTSICS\bin\Debug\toolkit.dll
+I:\MTSICS24号\MTSICS1\MTSICS\bin\Debug\LinFu.DynamicProxy.dll
+I:\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MTSICS_DAO.pdb
+I:\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MTSICS_VO.pdb
+I:\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MT_SICS.pdb
+I:\MTSICS24号\MTSICS1\MTSICS\bin\Debug\toolkit.pdb
+I:\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.Form1.resources
+I:\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.MainFrm.resources
+I:\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.Properties.Resources.resources
+I:\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\RegNo_DI.hbm.xml
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\RegNo_Value.hbm.xml
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\Batch.hbm.xml
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\Scale_Value.hbm.xml
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\tbdipdi.hbm.xml
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\jiaotan.hbm.xml
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MTSICS.exe.config
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MTSICS.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MTSICS.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\DevComponents.Instrumentation.Design.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\DevComponents.Instrumentation.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MTSICS_DAO.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MTSICS_VO.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MT_SICS.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\toolkit.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\LinFu.DynamicProxy.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MTSICS_DAO.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MTSICS_VO.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\MT_SICS.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\toolkit.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.Form1.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.MainFrm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\Interop.Excel.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\office.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\office.xml
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\Interop.Excel.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.Login.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\MTSICS\bin\Debug\Login.hbm.xml
+E:\MTSICS1\MTSICS\bin\Debug\MTSICS.exe.config
+E:\MTSICS1\MTSICS\obj\x86\Debug\Interop.Office.dll
+E:\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.csproj.ResolveComReference.cache
+E:\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.exe
+E:\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.pdb
+E:\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.csprojResolveAssemblyReference.cache
+E:\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.Form1.resources
+E:\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.Login.resources
+E:\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.MainFrm.resources
+E:\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.Properties.Resources.resources
+E:\MTSICS1\MTSICS\obj\x86\Debug\MTSICS.csproj.GenerateResource.Cache
+E:\MTSICS1\MTSICS\bin\Debug\RegNo_DI.hbm.xml
+E:\MTSICS1\MTSICS\bin\Debug\RegNo_Value.hbm.xml
+E:\MTSICS1\MTSICS\bin\Debug\Batch.hbm.xml
+E:\MTSICS1\MTSICS\bin\Debug\Scale_Value.hbm.xml
+E:\MTSICS1\MTSICS\bin\Debug\tbdipdi.hbm.xml
+E:\MTSICS1\MTSICS\bin\Debug\jiaotan.hbm.xml
+E:\MTSICS1\MTSICS\bin\Debug\Login.hbm.xml
+E:\MTSICS1\MTSICS\bin\Debug\MTSICS.exe
+E:\MTSICS1\MTSICS\bin\Debug\MTSICS.pdb
+E:\MTSICS1\MTSICS\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\MTSICS1\MTSICS\bin\Debug\DevComponents.DotNetBar2.dll
+E:\MTSICS1\MTSICS\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\MTSICS1\MTSICS\bin\Debug\DevComponents.Instrumentation.dll
+E:\MTSICS1\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\MTSICS1\MTSICS\bin\Debug\MTSICS_DAO.dll
+E:\MTSICS1\MTSICS\bin\Debug\MTSICS_VO.dll
+E:\MTSICS1\MTSICS\bin\Debug\MT_SICS.dll
+E:\MTSICS1\MTSICS\bin\Debug\toolkit.dll
+E:\MTSICS1\MTSICS\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\MTSICS1\MTSICS\bin\Debug\office.dll
+E:\MTSICS1\MTSICS\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\MTSICS1\MTSICS\bin\Debug\LinFu.DynamicProxy.dll
+E:\MTSICS1\MTSICS\bin\Debug\MTSICS_DAO.pdb
+E:\MTSICS1\MTSICS\bin\Debug\MTSICS_VO.pdb
+E:\MTSICS1\MTSICS\bin\Debug\MT_SICS.pdb
+E:\MTSICS1\MTSICS\bin\Debug\toolkit.pdb
+E:\MTSICS1\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\MTSICS1\MTSICS\bin\Debug\office.xml
+E:\MTSICS1\MTSICS\bin\Debug\Interop.Office.dll
+E:\MTSICS2\MTSICS\bin\Debug\MTSICS.exe.config
+E:\MTSICS2\MTSICS\obj\x86\Debug\Interop.Office.dll
+E:\MTSICS2\MTSICS\obj\x86\Debug\MTSICS.csproj.ResolveComReference.cache
+E:\MTSICS2\MTSICS\obj\x86\Debug\MTSICS.exe
+E:\MTSICS2\MTSICS\obj\x86\Debug\MTSICS.pdb
+E:\MTSICS2\MTSICS\bin\Debug\RegNo_DI.hbm.xml
+E:\MTSICS2\MTSICS\bin\Debug\RegNo_Value.hbm.xml
+E:\MTSICS2\MTSICS\bin\Debug\Batch.hbm.xml
+E:\MTSICS2\MTSICS\bin\Debug\Scale_Value.hbm.xml
+E:\MTSICS2\MTSICS\bin\Debug\tbdipdi.hbm.xml
+E:\MTSICS2\MTSICS\bin\Debug\jiaotan.hbm.xml
+E:\MTSICS2\MTSICS\bin\Debug\Login.hbm.xml
+E:\MTSICS2\MTSICS\bin\Debug\MTSICS.exe
+E:\MTSICS2\MTSICS\bin\Debug\MTSICS.pdb
+E:\MTSICS2\MTSICS\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\MTSICS2\MTSICS\bin\Debug\DevComponents.DotNetBar2.dll
+E:\MTSICS2\MTSICS\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\MTSICS2\MTSICS\bin\Debug\DevComponents.Instrumentation.dll
+E:\MTSICS2\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\MTSICS2\MTSICS\bin\Debug\MTSICS_DAO.dll
+E:\MTSICS2\MTSICS\bin\Debug\MTSICS_VO.dll
+E:\MTSICS2\MTSICS\bin\Debug\MT_SICS.dll
+E:\MTSICS2\MTSICS\bin\Debug\toolkit.dll
+E:\MTSICS2\MTSICS\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\MTSICS2\MTSICS\bin\Debug\office.dll
+E:\MTSICS2\MTSICS\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\MTSICS2\MTSICS\bin\Debug\LinFu.DynamicProxy.dll
+E:\MTSICS2\MTSICS\bin\Debug\MTSICS_DAO.pdb
+E:\MTSICS2\MTSICS\bin\Debug\MTSICS_VO.pdb
+E:\MTSICS2\MTSICS\bin\Debug\MT_SICS.pdb
+E:\MTSICS2\MTSICS\bin\Debug\toolkit.pdb
+E:\MTSICS2\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\MTSICS2\MTSICS\bin\Debug\office.xml
+E:\MTSICS2\MTSICS\bin\Debug\Interop.Office.dll
+E:\MTSICS2\MTSICS\obj\x86\Debug\MTSICS.csprojResolveAssemblyReference.cache
+E:\MTSICS2\MTSICS\obj\x86\Debug\MTSICS.Form1.resources
+E:\MTSICS2\MTSICS\obj\x86\Debug\MTSICS.Login.resources
+E:\MTSICS2\MTSICS\obj\x86\Debug\MTSICS.MainFrm.resources
+E:\MTSICS2\MTSICS\obj\x86\Debug\MTSICS.Properties.Resources.resources
+E:\MTSICS2\MTSICS\obj\x86\Debug\MTSICS.csproj.GenerateResource.Cache
+E:\MTSICS2\MTSICS\bin\Debug\ey_regno_di.hbm.xml
+E:\MTSICS3\MTSICS\bin\Debug\MTSICS.exe.config
+E:\MTSICS3\MTSICS\obj\x86\Debug\Interop.Office.dll
+E:\MTSICS3\MTSICS\obj\x86\Debug\MTSICS.csproj.ResolveComReference.cache
+E:\MTSICS3\MTSICS\obj\x86\Debug\MTSICS.exe
+E:\MTSICS3\MTSICS\obj\x86\Debug\MTSICS.pdb
+E:\MTSICS3\MTSICS\bin\Debug\RegNo_DI.hbm.xml
+E:\MTSICS3\MTSICS\bin\Debug\RegNo_Value.hbm.xml
+E:\MTSICS3\MTSICS\bin\Debug\Batch.hbm.xml
+E:\MTSICS3\MTSICS\bin\Debug\Scale_Value.hbm.xml
+E:\MTSICS3\MTSICS\bin\Debug\tbdipdi.hbm.xml
+E:\MTSICS3\MTSICS\bin\Debug\jiaotan.hbm.xml
+E:\MTSICS3\MTSICS\bin\Debug\Login.hbm.xml
+E:\MTSICS3\MTSICS\bin\Debug\EY_RegNo_DI.hbm.xml
+E:\MTSICS3\MTSICS\bin\Debug\MTSICS.exe
+E:\MTSICS3\MTSICS\bin\Debug\MTSICS.pdb
+E:\MTSICS3\MTSICS\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\MTSICS3\MTSICS\bin\Debug\DevComponents.DotNetBar2.dll
+E:\MTSICS3\MTSICS\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\MTSICS3\MTSICS\bin\Debug\DevComponents.Instrumentation.dll
+E:\MTSICS3\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\MTSICS3\MTSICS\bin\Debug\MTSICS_DAO.dll
+E:\MTSICS3\MTSICS\bin\Debug\MTSICS_VO.dll
+E:\MTSICS3\MTSICS\bin\Debug\MT_SICS.dll
+E:\MTSICS3\MTSICS\bin\Debug\toolkit.dll
+E:\MTSICS3\MTSICS\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\MTSICS3\MTSICS\bin\Debug\office.dll
+E:\MTSICS3\MTSICS\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\MTSICS3\MTSICS\bin\Debug\LinFu.DynamicProxy.dll
+E:\MTSICS3\MTSICS\bin\Debug\MTSICS_DAO.pdb
+E:\MTSICS3\MTSICS\bin\Debug\MTSICS_VO.pdb
+E:\MTSICS3\MTSICS\bin\Debug\MT_SICS.pdb
+E:\MTSICS3\MTSICS\bin\Debug\toolkit.pdb
+E:\MTSICS3\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\MTSICS3\MTSICS\bin\Debug\office.xml
+E:\MTSICS3\MTSICS\bin\Debug\Interop.Office.dll
+E:\MTSICS3\MTSICS\obj\x86\Debug\MTSICS.csprojResolveAssemblyReference.cache
+E:\MTSICS3\MTSICS\obj\x86\Debug\MTSICS.Form1.resources
+E:\MTSICS3\MTSICS\obj\x86\Debug\MTSICS.Login.resources
+E:\MTSICS3\MTSICS\obj\x86\Debug\MTSICS.MainFrm.resources
+E:\MTSICS3\MTSICS\obj\x86\Debug\MTSICS.Properties.Resources.resources
+E:\MTSICS3\MTSICS\obj\x86\Debug\MTSICS.csproj.GenerateResource.Cache
+E:\MTSICS3\MTSICS\bin\Debug\EY_Scale_Value.hbm.xml
+E:\MTSICS3\MTSICS\bin\Debug\EY_Batch.hbm.xml
+E:\MTSICS4\MTSICS\bin\Debug\MTSICS.exe.config
+E:\MTSICS4\MTSICS\obj\x86\Debug\Interop.Office.dll
+E:\MTSICS4\MTSICS\obj\x86\Debug\MTSICS.csproj.ResolveComReference.cache
+E:\MTSICS4\MTSICS\obj\x86\Debug\MTSICS.exe
+E:\MTSICS4\MTSICS\obj\x86\Debug\MTSICS.pdb
+E:\MTSICS4\MTSICS\bin\Debug\RegNo_DI.hbm.xml
+E:\MTSICS4\MTSICS\bin\Debug\RegNo_Value.hbm.xml
+E:\MTSICS4\MTSICS\bin\Debug\Batch.hbm.xml
+E:\MTSICS4\MTSICS\bin\Debug\Scale_Value.hbm.xml
+E:\MTSICS4\MTSICS\bin\Debug\tbdipdi.hbm.xml
+E:\MTSICS4\MTSICS\bin\Debug\jiaotan.hbm.xml
+E:\MTSICS4\MTSICS\bin\Debug\Login.hbm.xml
+E:\MTSICS4\MTSICS\bin\Debug\EY_RegNo_DI.hbm.xml
+E:\MTSICS4\MTSICS\bin\Debug\EY_Scale_Value.hbm.xml
+E:\MTSICS4\MTSICS\bin\Debug\EY_Batch.hbm.xml
+E:\MTSICS4\MTSICS\bin\Debug\MTSICS.exe
+E:\MTSICS4\MTSICS\bin\Debug\MTSICS.pdb
+E:\MTSICS4\MTSICS\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\MTSICS4\MTSICS\bin\Debug\DevComponents.DotNetBar2.dll
+E:\MTSICS4\MTSICS\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\MTSICS4\MTSICS\bin\Debug\DevComponents.Instrumentation.dll
+E:\MTSICS4\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\MTSICS4\MTSICS\bin\Debug\MTSICS_DAO.dll
+E:\MTSICS4\MTSICS\bin\Debug\MTSICS_VO.dll
+E:\MTSICS4\MTSICS\bin\Debug\MT_SICS.dll
+E:\MTSICS4\MTSICS\bin\Debug\toolkit.dll
+E:\MTSICS4\MTSICS\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\MTSICS4\MTSICS\bin\Debug\office.dll
+E:\MTSICS4\MTSICS\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\MTSICS4\MTSICS\bin\Debug\LinFu.DynamicProxy.dll
+E:\MTSICS4\MTSICS\bin\Debug\MTSICS_DAO.pdb
+E:\MTSICS4\MTSICS\bin\Debug\MTSICS_VO.pdb
+E:\MTSICS4\MTSICS\bin\Debug\MT_SICS.pdb
+E:\MTSICS4\MTSICS\bin\Debug\toolkit.pdb
+E:\MTSICS4\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\MTSICS4\MTSICS\bin\Debug\office.xml
+E:\MTSICS4\MTSICS\bin\Debug\Interop.Office.dll
+E:\MTSICS4\MTSICS\obj\x86\Debug\MTSICS.csprojResolveAssemblyReference.cache
+E:\MTSICS4\MTSICS\obj\x86\Debug\MTSICS.Form1.resources
+E:\MTSICS4\MTSICS\obj\x86\Debug\MTSICS.Login.resources
+E:\MTSICS4\MTSICS\obj\x86\Debug\MTSICS.MainFrm.resources
+E:\MTSICS4\MTSICS\obj\x86\Debug\MTSICS.Properties.Resources.resources
+E:\MTSICS4\MTSICS\obj\x86\Debug\MTSICS.csproj.GenerateResource.Cache
+E:\MTSICS4\MTSICS\bin\Debug\EY_MatrTable.hbm.xml
+L:\MTSICS4\MTSICS\bin\Debug\MTSICS.exe.config
+L:\MTSICS4\MTSICS\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+L:\MTSICS4\MTSICS\obj\x86\Debug\MTSICS.csproj.ResolveComReference.cache
+L:\MTSICS4\MTSICS\obj\x86\Debug\MTSICS.exe
+L:\MTSICS4\MTSICS\obj\x86\Debug\MTSICS.pdb
+L:\MTSICS4\MTSICS\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\MTSICS4\MTSICS\obj\x86\Debug\MTSICS.Form1.resources
+L:\MTSICS4\MTSICS\obj\x86\Debug\MTSICS.Login.resources
+L:\MTSICS4\MTSICS\obj\x86\Debug\MTSICS.Properties.Resources.resources
+L:\MTSICS4\MTSICS\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\MTSICS4\MTSICS\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\MTSICS4\MTSICS\bin\Debug\RegNo_DI.hbm.xml
+L:\MTSICS4\MTSICS\bin\Debug\RegNo_Value.hbm.xml
+L:\MTSICS4\MTSICS\bin\Debug\Batch.hbm.xml
+L:\MTSICS4\MTSICS\bin\Debug\Scale_Value.hbm.xml
+L:\MTSICS4\MTSICS\bin\Debug\tbdipdi.hbm.xml
+L:\MTSICS4\MTSICS\bin\Debug\jiaotan.hbm.xml
+L:\MTSICS4\MTSICS\bin\Debug\Login.hbm.xml
+L:\MTSICS4\MTSICS\bin\Debug\EY_RegNo_DI.hbm.xml
+L:\MTSICS4\MTSICS\bin\Debug\EY_Scale_Value.hbm.xml
+L:\MTSICS4\MTSICS\bin\Debug\EY_Batch.hbm.xml
+L:\MTSICS4\MTSICS\bin\Debug\EY_MatrTable.hbm.xml
+L:\MTSICS4\MTSICS\bin\Debug\MTSICS.exe
+L:\MTSICS4\MTSICS\bin\Debug\MTSICS.pdb
+L:\MTSICS4\MTSICS\bin\Debug\DevComponents.DotNetBar.Design.dll
+L:\MTSICS4\MTSICS\bin\Debug\DevComponents.DotNetBar2.dll
+L:\MTSICS4\MTSICS\bin\Debug\DevComponents.Instrumentation.Design.dll
+L:\MTSICS4\MTSICS\bin\Debug\DevComponents.Instrumentation.dll
+L:\MTSICS4\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+L:\MTSICS4\MTSICS\bin\Debug\MTSICS_DAO.dll
+L:\MTSICS4\MTSICS\bin\Debug\MTSICS_VO.dll
+L:\MTSICS4\MTSICS\bin\Debug\MT_SICS.dll
+L:\MTSICS4\MTSICS\bin\Debug\toolkit.dll
+L:\MTSICS4\MTSICS\bin\Debug\Interop.Microsoft.Office.Core.dll
+L:\MTSICS4\MTSICS\bin\Debug\office.dll
+L:\MTSICS4\MTSICS\bin\Debug\LinFu.DynamicProxy.dll
+L:\MTSICS4\MTSICS\bin\Debug\MTSICS_DAO.pdb
+L:\MTSICS4\MTSICS\bin\Debug\MTSICS_VO.pdb
+L:\MTSICS4\MTSICS\bin\Debug\MT_SICS.pdb
+L:\MTSICS4\MTSICS\bin\Debug\toolkit.pdb
+L:\MTSICS4\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+L:\MTSICS4\MTSICS\bin\Debug\office.xml
+L:\MTSICS4\MTSICS\obj\x86\Debug\MTSICS.MainFrm.resources
+E:\MTSICS6\MTSICS\bin\Debug\MTSICS.exe.config
+E:\MTSICS6\MTSICS\obj\x86\Debug\Interop.Office.dll
+E:\MTSICS6\MTSICS\obj\x86\Debug\MTSICS.csproj.ResolveComReference.cache
+E:\MTSICS6\MTSICS\obj\x86\Debug\MTSICS.exe
+E:\MTSICS6\MTSICS\obj\x86\Debug\MTSICS.pdb
+E:\MTSICS6\MTSICS\bin\Debug\RegNo_DI.hbm.xml
+E:\MTSICS6\MTSICS\bin\Debug\RegNo_Value.hbm.xml
+E:\MTSICS6\MTSICS\bin\Debug\Batch.hbm.xml
+E:\MTSICS6\MTSICS\bin\Debug\Scale_Value.hbm.xml
+E:\MTSICS6\MTSICS\bin\Debug\tbdipdi.hbm.xml
+E:\MTSICS6\MTSICS\bin\Debug\jiaotan.hbm.xml
+E:\MTSICS6\MTSICS\bin\Debug\Login.hbm.xml
+E:\MTSICS6\MTSICS\bin\Debug\EY_RegNo_DI.hbm.xml
+E:\MTSICS6\MTSICS\bin\Debug\EY_Scale_Value.hbm.xml
+E:\MTSICS6\MTSICS\bin\Debug\EY_Batch.hbm.xml
+E:\MTSICS6\MTSICS\bin\Debug\EY_MatrTable.hbm.xml
+E:\MTSICS6\MTSICS\bin\Debug\MTSICS.exe
+E:\MTSICS6\MTSICS\bin\Debug\MTSICS.pdb
+E:\MTSICS6\MTSICS\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\MTSICS6\MTSICS\bin\Debug\DevComponents.DotNetBar2.dll
+E:\MTSICS6\MTSICS\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\MTSICS6\MTSICS\bin\Debug\DevComponents.Instrumentation.dll
+E:\MTSICS6\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\MTSICS6\MTSICS\bin\Debug\MTSICS_DAO.dll
+E:\MTSICS6\MTSICS\bin\Debug\MTSICS_VO.dll
+E:\MTSICS6\MTSICS\bin\Debug\MT_SICS.dll
+E:\MTSICS6\MTSICS\bin\Debug\toolkit.dll
+E:\MTSICS6\MTSICS\bin\Debug\office.dll
+E:\MTSICS6\MTSICS\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\MTSICS6\MTSICS\bin\Debug\LinFu.DynamicProxy.dll
+E:\MTSICS6\MTSICS\bin\Debug\MTSICS_DAO.pdb
+E:\MTSICS6\MTSICS\bin\Debug\MTSICS_VO.pdb
+E:\MTSICS6\MTSICS\bin\Debug\MT_SICS.pdb
+E:\MTSICS6\MTSICS\bin\Debug\toolkit.pdb
+E:\MTSICS6\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\MTSICS6\MTSICS\bin\Debug\office.xml
+E:\MTSICS6\MTSICS\bin\Debug\Interop.Office.dll
+E:\MTSICS6\MTSICS\obj\x86\Debug\MTSICS.csprojResolveAssemblyReference.cache
+E:\MTSICS6\MTSICS\obj\x86\Debug\MTSICS.Form1.resources
+E:\MTSICS6\MTSICS\obj\x86\Debug\MTSICS.Login.resources
+E:\MTSICS6\MTSICS\obj\x86\Debug\MTSICS.MainFrm.resources
+E:\MTSICS6\MTSICS\obj\x86\Debug\MTSICS.Properties.Resources.resources
+E:\MTSICS6\MTSICS\obj\x86\Debug\MTSICS.csproj.GenerateResource.Cache
+N:\MTSICS6\MTSICS\bin\Debug\MTSICS.exe.config
+N:\MTSICS6\MTSICS\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+N:\MTSICS6\MTSICS\obj\x86\Debug\MTSICS.csproj.ResolveComReference.cache
+N:\MTSICS6\MTSICS\obj\x86\Debug\MTSICS.exe
+N:\MTSICS6\MTSICS\obj\x86\Debug\MTSICS.pdb
+N:\MTSICS6\MTSICS\bin\Debug\RegNo_DI.hbm.xml
+N:\MTSICS6\MTSICS\bin\Debug\RegNo_Value.hbm.xml
+N:\MTSICS6\MTSICS\bin\Debug\Batch.hbm.xml
+N:\MTSICS6\MTSICS\bin\Debug\Scale_Value.hbm.xml
+N:\MTSICS6\MTSICS\bin\Debug\tbdipdi.hbm.xml
+N:\MTSICS6\MTSICS\bin\Debug\jiaotan.hbm.xml
+N:\MTSICS6\MTSICS\bin\Debug\Login.hbm.xml
+N:\MTSICS6\MTSICS\bin\Debug\EY_RegNo_DI.hbm.xml
+N:\MTSICS6\MTSICS\bin\Debug\EY_Scale_Value.hbm.xml
+N:\MTSICS6\MTSICS\bin\Debug\EY_Batch.hbm.xml
+N:\MTSICS6\MTSICS\bin\Debug\EY_MatrTable.hbm.xml
+N:\MTSICS6\MTSICS\bin\Debug\MTSICS.exe
+N:\MTSICS6\MTSICS\bin\Debug\MTSICS.pdb
+N:\MTSICS6\MTSICS\bin\Debug\DevComponents.DotNetBar.Design.dll
+N:\MTSICS6\MTSICS\bin\Debug\DevComponents.DotNetBar2.dll
+N:\MTSICS6\MTSICS\bin\Debug\DevComponents.Instrumentation.Design.dll
+N:\MTSICS6\MTSICS\bin\Debug\DevComponents.Instrumentation.dll
+N:\MTSICS6\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+N:\MTSICS6\MTSICS\bin\Debug\MTSICS_DAO.dll
+N:\MTSICS6\MTSICS\bin\Debug\MTSICS_VO.dll
+N:\MTSICS6\MTSICS\bin\Debug\MT_SICS.dll
+N:\MTSICS6\MTSICS\bin\Debug\toolkit.dll
+N:\MTSICS6\MTSICS\bin\Debug\office.dll
+N:\MTSICS6\MTSICS\bin\Debug\LinFu.DynamicProxy.dll
+N:\MTSICS6\MTSICS\bin\Debug\MTSICS_DAO.pdb
+N:\MTSICS6\MTSICS\bin\Debug\MTSICS_VO.pdb
+N:\MTSICS6\MTSICS\bin\Debug\MT_SICS.pdb
+N:\MTSICS6\MTSICS\bin\Debug\toolkit.pdb
+N:\MTSICS6\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+N:\MTSICS6\MTSICS\bin\Debug\office.xml
+N:\MTSICS6\MTSICS\bin\Debug\Interop.Microsoft.Office.Core.dll
+N:\MTSICS6\MTSICS\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\MTSICS6\MTSICS\obj\x86\Debug\MTSICS.Form1.resources
+N:\MTSICS6\MTSICS\obj\x86\Debug\MTSICS.Login.resources
+N:\MTSICS6\MTSICS\obj\x86\Debug\MTSICS.MainFrm.resources
+N:\MTSICS6\MTSICS\obj\x86\Debug\MTSICS.Properties.Resources.resources
+N:\MTSICS6\MTSICS\obj\x86\Debug\GenerateResource.read.1.tlog
+N:\MTSICS6\MTSICS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\MTSICS7\MTSICS\bin\Debug\MTSICS.exe.config
+E:\MTSICS7\MTSICS\obj\x86\Debug\Interop.Office.dll
+E:\MTSICS7\MTSICS\obj\x86\Debug\MTSICS.csproj.ResolveComReference.cache
+E:\MTSICS7\MTSICS\obj\x86\Debug\MTSICS.exe
+E:\MTSICS7\MTSICS\obj\x86\Debug\MTSICS.pdb
+E:\MTSICS7\MTSICS\bin\Debug\RegNo_DI.hbm.xml
+E:\MTSICS7\MTSICS\bin\Debug\RegNo_Value.hbm.xml
+E:\MTSICS7\MTSICS\bin\Debug\Batch.hbm.xml
+E:\MTSICS7\MTSICS\bin\Debug\Scale_Value.hbm.xml
+E:\MTSICS7\MTSICS\bin\Debug\tbdipdi.hbm.xml
+E:\MTSICS7\MTSICS\bin\Debug\jiaotan.hbm.xml
+E:\MTSICS7\MTSICS\bin\Debug\Login.hbm.xml
+E:\MTSICS7\MTSICS\bin\Debug\EY_RegNo_DI.hbm.xml
+E:\MTSICS7\MTSICS\bin\Debug\EY_Scale_Value.hbm.xml
+E:\MTSICS7\MTSICS\bin\Debug\EY_Batch.hbm.xml
+E:\MTSICS7\MTSICS\bin\Debug\EY_MatrTable.hbm.xml
+E:\MTSICS7\MTSICS\bin\Debug\MTSICS.exe
+E:\MTSICS7\MTSICS\bin\Debug\MTSICS.pdb
+E:\MTSICS7\MTSICS\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\MTSICS7\MTSICS\bin\Debug\DevComponents.DotNetBar2.dll
+E:\MTSICS7\MTSICS\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\MTSICS7\MTSICS\bin\Debug\DevComponents.Instrumentation.dll
+E:\MTSICS7\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\MTSICS7\MTSICS\bin\Debug\MTSICS_DAO.dll
+E:\MTSICS7\MTSICS\bin\Debug\MTSICS_VO.dll
+E:\MTSICS7\MTSICS\bin\Debug\MT_SICS.dll
+E:\MTSICS7\MTSICS\bin\Debug\toolkit.dll
+E:\MTSICS7\MTSICS\bin\Debug\office.dll
+E:\MTSICS7\MTSICS\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\MTSICS7\MTSICS\bin\Debug\LinFu.DynamicProxy.dll
+E:\MTSICS7\MTSICS\bin\Debug\MTSICS_DAO.pdb
+E:\MTSICS7\MTSICS\bin\Debug\MTSICS_VO.pdb
+E:\MTSICS7\MTSICS\bin\Debug\MT_SICS.pdb
+E:\MTSICS7\MTSICS\bin\Debug\toolkit.pdb
+E:\MTSICS7\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\MTSICS7\MTSICS\bin\Debug\office.xml
+E:\MTSICS7\MTSICS\bin\Debug\Interop.Office.dll
+E:\MTSICS7\MTSICS\obj\x86\Debug\MTSICS.csprojResolveAssemblyReference.cache
+E:\MTSICS7\MTSICS\obj\x86\Debug\MTSICS.Form1.resources
+E:\MTSICS7\MTSICS\obj\x86\Debug\MTSICS.Login.resources
+E:\MTSICS7\MTSICS\obj\x86\Debug\MTSICS.MainFrm.resources
+E:\MTSICS7\MTSICS\obj\x86\Debug\MTSICS.Properties.Resources.resources
+E:\MTSICS7\MTSICS\obj\x86\Debug\MTSICS.csproj.GenerateResource.Cache
+E:\MTSICS7\MTSICS\bin\Debug\EY_DataChange_Log.hbm.xml
+E:\MTSICS8\MTSICS\bin\Debug\MTSICS.exe.config
+E:\MTSICS8\MTSICS\obj\x86\Debug\Interop.Office.dll
+E:\MTSICS8\MTSICS\obj\x86\Debug\MTSICS.csproj.ResolveComReference.cache
+E:\MTSICS8\MTSICS\obj\x86\Debug\MTSICS.exe
+E:\MTSICS8\MTSICS\obj\x86\Debug\MTSICS.pdb
+E:\MTSICS8\MTSICS\bin\Debug\RegNo_DI.hbm.xml
+E:\MTSICS8\MTSICS\bin\Debug\RegNo_Value.hbm.xml
+E:\MTSICS8\MTSICS\bin\Debug\Batch.hbm.xml
+E:\MTSICS8\MTSICS\bin\Debug\Scale_Value.hbm.xml
+E:\MTSICS8\MTSICS\bin\Debug\tbdipdi.hbm.xml
+E:\MTSICS8\MTSICS\bin\Debug\jiaotan.hbm.xml
+E:\MTSICS8\MTSICS\bin\Debug\Login.hbm.xml
+E:\MTSICS8\MTSICS\bin\Debug\EY_RegNo_DI.hbm.xml
+E:\MTSICS8\MTSICS\bin\Debug\EY_Scale_Value.hbm.xml
+E:\MTSICS8\MTSICS\bin\Debug\EY_Batch.hbm.xml
+E:\MTSICS8\MTSICS\bin\Debug\EY_MatrTable.hbm.xml
+E:\MTSICS8\MTSICS\bin\Debug\EY_DataChange_Log.hbm.xml
+E:\MTSICS8\MTSICS\bin\Debug\MTSICS.exe
+E:\MTSICS8\MTSICS\bin\Debug\MTSICS.pdb
+E:\MTSICS8\MTSICS\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\MTSICS8\MTSICS\bin\Debug\DevComponents.DotNetBar2.dll
+E:\MTSICS8\MTSICS\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\MTSICS8\MTSICS\bin\Debug\DevComponents.Instrumentation.dll
+E:\MTSICS8\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\MTSICS8\MTSICS\bin\Debug\MTSICS_DAO.dll
+E:\MTSICS8\MTSICS\bin\Debug\MTSICS_VO.dll
+E:\MTSICS8\MTSICS\bin\Debug\MT_SICS.dll
+E:\MTSICS8\MTSICS\bin\Debug\toolkit.dll
+E:\MTSICS8\MTSICS\bin\Debug\office.dll
+E:\MTSICS8\MTSICS\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\MTSICS8\MTSICS\bin\Debug\LinFu.DynamicProxy.dll
+E:\MTSICS8\MTSICS\bin\Debug\MTSICS_DAO.pdb
+E:\MTSICS8\MTSICS\bin\Debug\MTSICS_VO.pdb
+E:\MTSICS8\MTSICS\bin\Debug\MT_SICS.pdb
+E:\MTSICS8\MTSICS\bin\Debug\toolkit.pdb
+E:\MTSICS8\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\MTSICS8\MTSICS\bin\Debug\office.xml
+E:\MTSICS8\MTSICS\bin\Debug\Interop.Office.dll
+E:\MTSICS8\MTSICS\obj\x86\Debug\MTSICS.csprojResolveAssemblyReference.cache
+E:\MTSICS8\MTSICS\obj\x86\Debug\MTSICS.Form1.resources
+E:\MTSICS8\MTSICS\obj\x86\Debug\MTSICS.Login.resources
+E:\MTSICS8\MTSICS\obj\x86\Debug\MTSICS.MainFrm.resources
+E:\MTSICS8\MTSICS\obj\x86\Debug\MTSICS.Properties.Resources.resources
+E:\MTSICS8\MTSICS\obj\x86\Debug\MTSICS.UPLoad.resources
+E:\MTSICS8\MTSICS\obj\x86\Debug\MTSICS.csproj.GenerateResource.Cache
+E:\MTSICS8\MTSICS\obj\x86\Debug\MTSICS.MDIFORM.resources
+E:\MTSICS8\MTSICS\bin\Debug\tbdipdo.hbm.xml
+E:\MTSICS9\MTSICS\bin\Debug\MTSICS.exe.config
+E:\MTSICS9\MTSICS\obj\x86\Debug\Interop.Office.dll
+E:\MTSICS9\MTSICS\obj\x86\Debug\MTSICS.csproj.ResolveComReference.cache
+E:\MTSICS9\MTSICS\obj\x86\Debug\MTSICS.exe
+E:\MTSICS9\MTSICS\obj\x86\Debug\MTSICS.pdb
+E:\MTSICS9\MTSICS\bin\Debug\RegNo_DI.hbm.xml
+E:\MTSICS9\MTSICS\bin\Debug\RegNo_Value.hbm.xml
+E:\MTSICS9\MTSICS\bin\Debug\Batch.hbm.xml
+E:\MTSICS9\MTSICS\bin\Debug\Scale_Value.hbm.xml
+E:\MTSICS9\MTSICS\bin\Debug\tbdipdi.hbm.xml
+E:\MTSICS9\MTSICS\bin\Debug\jiaotan.hbm.xml
+E:\MTSICS9\MTSICS\bin\Debug\Login.hbm.xml
+E:\MTSICS9\MTSICS\bin\Debug\EY_RegNo_DI.hbm.xml
+E:\MTSICS9\MTSICS\bin\Debug\EY_Scale_Value.hbm.xml
+E:\MTSICS9\MTSICS\bin\Debug\EY_Batch.hbm.xml
+E:\MTSICS9\MTSICS\bin\Debug\EY_MatrTable.hbm.xml
+E:\MTSICS9\MTSICS\bin\Debug\EY_DataChange_Log.hbm.xml
+E:\MTSICS9\MTSICS\bin\Debug\tbdipdo.hbm.xml
+E:\MTSICS9\MTSICS\bin\Debug\MTSICS.exe
+E:\MTSICS9\MTSICS\bin\Debug\MTSICS.pdb
+E:\MTSICS9\MTSICS\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\MTSICS9\MTSICS\bin\Debug\DevComponents.DotNetBar2.dll
+E:\MTSICS9\MTSICS\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\MTSICS9\MTSICS\bin\Debug\DevComponents.Instrumentation.dll
+E:\MTSICS9\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\MTSICS9\MTSICS\bin\Debug\MTSICS_DAO.dll
+E:\MTSICS9\MTSICS\bin\Debug\MTSICS_VO.dll
+E:\MTSICS9\MTSICS\bin\Debug\MT_SICS.dll
+E:\MTSICS9\MTSICS\bin\Debug\toolkit.dll
+E:\MTSICS9\MTSICS\bin\Debug\office.dll
+E:\MTSICS9\MTSICS\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\MTSICS9\MTSICS\bin\Debug\LinFu.DynamicProxy.dll
+E:\MTSICS9\MTSICS\bin\Debug\MTSICS_DAO.pdb
+E:\MTSICS9\MTSICS\bin\Debug\MTSICS_VO.pdb
+E:\MTSICS9\MTSICS\bin\Debug\MT_SICS.pdb
+E:\MTSICS9\MTSICS\bin\Debug\toolkit.pdb
+E:\MTSICS9\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\MTSICS9\MTSICS\bin\Debug\office.xml
+E:\MTSICS9\MTSICS\bin\Debug\Interop.Office.dll
+E:\MTSICS9\MTSICS\obj\x86\Debug\MTSICS.csprojResolveAssemblyReference.cache
+E:\MTSICS9\MTSICS\obj\x86\Debug\MTSICS.Form1.resources
+E:\MTSICS9\MTSICS\obj\x86\Debug\MTSICS.Login.resources
+E:\MTSICS9\MTSICS\obj\x86\Debug\MTSICS.MainFrm.resources
+E:\MTSICS9\MTSICS\obj\x86\Debug\MTSICS.MDIFORM.resources
+E:\MTSICS9\MTSICS\obj\x86\Debug\MTSICS.Properties.Resources.resources
+E:\MTSICS9\MTSICS\obj\x86\Debug\MTSICS.UPLoad.resources
+E:\MTSICS9\MTSICS\obj\x86\Debug\MTSICS.csproj.GenerateResource.Cache
+E:\MTSICS\MTSICS\bin\Debug\MTSICS.exe.config
+E:\MTSICS\MTSICS\obj\x86\Debug\MTSICS.csproj.ResolveComReference.cache
+E:\MTSICS\MTSICS\obj\x86\Debug\MTSICS.exe
+E:\MTSICS\MTSICS\obj\x86\Debug\MTSICS.pdb
+E:\MTSICS\MTSICS\bin\Debug\RegNo_DI.hbm.xml
+E:\MTSICS\MTSICS\bin\Debug\RegNo_Value.hbm.xml
+E:\MTSICS\MTSICS\bin\Debug\Batch.hbm.xml
+E:\MTSICS\MTSICS\bin\Debug\Scale_Value.hbm.xml
+E:\MTSICS\MTSICS\bin\Debug\tbdipdi.hbm.xml
+E:\MTSICS\MTSICS\bin\Debug\jiaotan.hbm.xml
+E:\MTSICS\MTSICS\bin\Debug\Login.hbm.xml
+E:\MTSICS\MTSICS\bin\Debug\EY_RegNo_DI.hbm.xml
+E:\MTSICS\MTSICS\bin\Debug\EY_Scale_Value.hbm.xml
+E:\MTSICS\MTSICS\bin\Debug\EY_Batch.hbm.xml
+E:\MTSICS\MTSICS\bin\Debug\EY_MatrTable.hbm.xml
+E:\MTSICS\MTSICS\bin\Debug\EY_DataChange_Log.hbm.xml
+E:\MTSICS\MTSICS\bin\Debug\tbdipdo.hbm.xml
+E:\MTSICS\MTSICS\bin\Debug\MTSICS.exe
+E:\MTSICS\MTSICS\bin\Debug\MTSICS.pdb
+E:\MTSICS\MTSICS\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\MTSICS\MTSICS\bin\Debug\DevComponents.DotNetBar2.dll
+E:\MTSICS\MTSICS\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\MTSICS\MTSICS\bin\Debug\DevComponents.Instrumentation.dll
+E:\MTSICS\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\MTSICS\MTSICS\bin\Debug\MTSICS_DAO.dll
+E:\MTSICS\MTSICS\bin\Debug\MTSICS_VO.dll
+E:\MTSICS\MTSICS\bin\Debug\MT_SICS.dll
+E:\MTSICS\MTSICS\bin\Debug\toolkit.dll
+E:\MTSICS\MTSICS\bin\Debug\office.dll
+E:\MTSICS\MTSICS\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\MTSICS\MTSICS\bin\Debug\LinFu.DynamicProxy.dll
+E:\MTSICS\MTSICS\bin\Debug\MTSICS_DAO.pdb
+E:\MTSICS\MTSICS\bin\Debug\MTSICS_VO.pdb
+E:\MTSICS\MTSICS\bin\Debug\MT_SICS.pdb
+E:\MTSICS\MTSICS\bin\Debug\toolkit.pdb
+E:\MTSICS\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\MTSICS\MTSICS\bin\Debug\office.xml
+E:\MTSICS\MTSICS\obj\x86\Debug\MTSICS.csprojResolveAssemblyReference.cache
+E:\MTSICS\MTSICS\obj\x86\Debug\MTSICS.Form1.resources
+E:\MTSICS\MTSICS\obj\x86\Debug\MTSICS.Login.resources
+E:\MTSICS\MTSICS\obj\x86\Debug\MTSICS.MainFrm.resources
+E:\MTSICS\MTSICS\obj\x86\Debug\MTSICS.MDIFORM.resources
+E:\MTSICS\MTSICS\obj\x86\Debug\MTSICS.Properties.Resources.resources
+E:\MTSICS\MTSICS\obj\x86\Debug\MTSICS.UPLoad.resources
+E:\MTSICS\MTSICS\obj\x86\Debug\MTSICS.csproj.GenerateResource.Cache
+E:\MTSICS\MTSICS\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+E:\MTSICS\MTSICS\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\MTSICS.exe.config
+C:\Users\DELL\Desktop\MTSICS\MTSICS\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\DELL\Desktop\MTSICS\MTSICS\obj\x86\Debug\MTSICS.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\MTSICS\MTSICS\obj\x86\Debug\MTSICS.exe
+C:\Users\DELL\Desktop\MTSICS\MTSICS\obj\x86\Debug\MTSICS.pdb
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\RegNo_DI.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\RegNo_Value.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\Batch.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\Scale_Value.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\tbdipdi.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\jiaotan.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\Login.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\EY_RegNo_DI.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\EY_Scale_Value.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\EY_Batch.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\EY_MatrTable.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\EY_DataChange_Log.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\tbdipdo.hbm.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\MTSICS.exe
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\MTSICS.pdb
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\DevComponents.Instrumentation.Design.dll
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\MTSICS_DAO.dll
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\MTSICS_VO.dll
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\MT_SICS.dll
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\toolkit.dll
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\office.dll
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\LinFu.DynamicProxy.dll
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\MTSICS_DAO.pdb
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\MTSICS_VO.pdb
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\MT_SICS.pdb
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\toolkit.pdb
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\office.xml
+C:\Users\DELL\Desktop\MTSICS\MTSICS\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\DELL\Desktop\MTSICS\MTSICS\obj\x86\Debug\MTSICS.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\MTSICS\MTSICS\obj\x86\Debug\MTSICS.Form1.resources
+C:\Users\DELL\Desktop\MTSICS\MTSICS\obj\x86\Debug\MTSICS.Login.resources
+C:\Users\DELL\Desktop\MTSICS\MTSICS\obj\x86\Debug\MTSICS.MainFrm.resources
+C:\Users\DELL\Desktop\MTSICS\MTSICS\obj\x86\Debug\MTSICS.MDIFORM.resources
+C:\Users\DELL\Desktop\MTSICS\MTSICS\obj\x86\Debug\MTSICS.Properties.Resources.resources
+C:\Users\DELL\Desktop\MTSICS\MTSICS\obj\x86\Debug\MTSICS.UPLoad.resources
+C:\Users\DELL\Desktop\MTSICS\MTSICS\obj\x86\Debug\MTSICS.csproj.GenerateResource.Cache

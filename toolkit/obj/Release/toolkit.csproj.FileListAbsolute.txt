@@ -1,0 +1,5 @@
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\toolkit\bin\Release\toolkit.dll
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\toolkit\bin\Release\toolkit.pdb
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\toolkit\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\toolkit\obj\Release\toolkit.dll
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\toolkit\obj\Release\toolkit.pdb

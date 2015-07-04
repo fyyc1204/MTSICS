@@ -1,0 +1,79 @@
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\toolkit\bin\Debug\toolkit.dll
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\toolkit\bin\Debug\toolkit.pdb
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\toolkit\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\toolkit\obj\Debug\toolkit.dll
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\toolkit\obj\Debug\toolkit.pdb
+C:\MTSICS\toolkit\bin\Debug\toolkit.dll
+C:\MTSICS\toolkit\bin\Debug\toolkit.pdb
+C:\MTSICS\toolkit\obj\Debug\ResolveAssemblyReference.cache
+C:\MTSICS\toolkit\obj\Debug\toolkit.dll
+C:\MTSICS\toolkit\obj\Debug\toolkit.pdb
+D:\MTSICS\toolkit\bin\Debug\toolkit.dll
+D:\MTSICS\toolkit\bin\Debug\toolkit.pdb
+D:\MTSICS\toolkit\obj\Debug\ResolveAssemblyReference.cache
+D:\MTSICS\toolkit\obj\Debug\toolkit.dll
+D:\MTSICS\toolkit\obj\Debug\toolkit.pdb
+C:\Users\wu\Desktop\MTSICS1\toolkit\bin\Debug\toolkit.dll
+C:\Users\wu\Desktop\MTSICS1\toolkit\bin\Debug\toolkit.pdb
+C:\Users\wu\Desktop\MTSICS1\toolkit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wu\Desktop\MTSICS1\toolkit\obj\Debug\toolkit.dll
+C:\Users\wu\Desktop\MTSICS1\toolkit\obj\Debug\toolkit.pdb
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\toolkit\bin\Debug\toolkit.dll
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\toolkit\bin\Debug\toolkit.pdb
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\toolkit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\toolkit\obj\Debug\toolkit.dll
+C:\Users\wu\Desktop\平台称文件\平台称文件\MTSICS21号\MTSICS1\toolkit\obj\Debug\toolkit.pdb
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\toolkit\bin\Debug\toolkit.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\toolkit\bin\Debug\toolkit.pdb
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\toolkit\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\toolkit\obj\Debug\toolkit.dll
+C:\Documents and Settings\Administrator\桌面\MTSICS21号\MTSICS1\toolkit\obj\Debug\toolkit.pdb
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\toolkit\bin\Debug\toolkit.dll
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\toolkit\bin\Debug\toolkit.pdb
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\toolkit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\toolkit\obj\Debug\toolkit.dll
+C:\Users\wu\Desktop\MTSICS24号\MTSICS1\toolkit\obj\Debug\toolkit.pdb
+I:\MTSICS24号\MTSICS1\toolkit\bin\Debug\toolkit.dll
+I:\MTSICS24号\MTSICS1\toolkit\bin\Debug\toolkit.pdb
+I:\MTSICS24号\MTSICS1\toolkit\obj\Debug\ResolveAssemblyReference.cache
+I:\MTSICS24号\MTSICS1\toolkit\obj\Debug\toolkit.dll
+I:\MTSICS24号\MTSICS1\toolkit\obj\Debug\toolkit.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\toolkit\bin\Debug\toolkit.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\toolkit\bin\Debug\toolkit.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\toolkit\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\toolkit\obj\Debug\toolkit.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\MTSICS24号\MTSICS1\toolkit\obj\Debug\toolkit.pdb
+E:\MTSICS1\toolkit\bin\Debug\toolkit.dll
+E:\MTSICS1\toolkit\bin\Debug\toolkit.pdb
+E:\MTSICS1\toolkit\obj\Debug\toolkit.dll
+E:\MTSICS1\toolkit\obj\Debug\toolkit.pdb
+E:\MTSICS2\toolkit\bin\Debug\toolkit.dll
+E:\MTSICS2\toolkit\bin\Debug\toolkit.pdb
+E:\MTSICS2\toolkit\obj\Debug\toolkit.dll
+E:\MTSICS2\toolkit\obj\Debug\toolkit.pdb
+E:\MTSICS4\toolkit\bin\Debug\toolkit.dll
+E:\MTSICS4\toolkit\bin\Debug\toolkit.pdb
+E:\MTSICS4\toolkit\obj\Debug\toolkit.dll
+E:\MTSICS4\toolkit\obj\Debug\toolkit.pdb
+L:\MTSICS4\toolkit\bin\Debug\toolkit.dll
+L:\MTSICS4\toolkit\bin\Debug\toolkit.pdb
+L:\MTSICS4\toolkit\obj\Debug\ResolveAssemblyReference.cache
+L:\MTSICS4\toolkit\obj\Debug\toolkit.dll
+L:\MTSICS4\toolkit\obj\Debug\toolkit.pdb
+N:\MTSICS6\toolkit\bin\Debug\toolkit.dll
+N:\MTSICS6\toolkit\bin\Debug\toolkit.pdb
+N:\MTSICS6\toolkit\obj\Debug\ResolveAssemblyReference.cache
+N:\MTSICS6\toolkit\obj\Debug\toolkit.dll
+N:\MTSICS6\toolkit\obj\Debug\toolkit.pdb
+E:\MTSICS8\toolkit\bin\Debug\toolkit.dll
+E:\MTSICS8\toolkit\bin\Debug\toolkit.pdb
+E:\MTSICS8\toolkit\obj\Debug\toolkit.dll
+E:\MTSICS8\toolkit\obj\Debug\toolkit.pdb
+E:\MTSICS\toolkit\bin\Debug\toolkit.dll
+E:\MTSICS\toolkit\bin\Debug\toolkit.pdb
+E:\MTSICS\toolkit\obj\Debug\toolkit.dll
+E:\MTSICS\toolkit\obj\Debug\toolkit.pdb
+C:\Users\DELL\Desktop\MTSICS\toolkit\bin\Debug\toolkit.dll
+C:\Users\DELL\Desktop\MTSICS\toolkit\bin\Debug\toolkit.pdb
+C:\Users\DELL\Desktop\MTSICS\toolkit\obj\Debug\toolkit.dll
+C:\Users\DELL\Desktop\MTSICS\toolkit\obj\Debug\toolkit.pdb

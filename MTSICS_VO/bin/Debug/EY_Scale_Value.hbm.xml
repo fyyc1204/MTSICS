@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" namespace="MTSICS_VO" assembly="MTSICS_VO">
+  <class name="EY_Scale_Value" table="EY_Scale_Value">
+
+    <composite-id name="Id" class="EY_Scale_Value_PK">
+
+      <key-property name="RegNo" column="regNo" type="String"/>
+
+      <key-property name="CheckNo" column="checkNo" type="String"/>
+
+    </composite-id>
+
+    <property name="PanWgt" column="panwgt" type="Decimal">
+    </property>
+    <property name="YangWgt" column="yangwgt" type="Decimal">
+    </property>
+    <property name="HengWgt1" column="hengwgt1" type="Decimal">
+    </property>
+    <property name="HengWgt2" column="hengwgt2" type="Decimal">
+    </property>
+    <property name="HengWgt3" column="hengwgt3" type="Decimal">
+    </property>
+    <property name="HengWgt4" column="hengwgt4" type="Decimal">
+    </property>
+    <property name="FinalValue" column="finalvalue" type="Decimal">
+    </property>
+    <property name="Operator1" column="operator1" type="String">
+    </property>
+    <property name="Operator2" column="operator2" type="String">
+    </property>
+    <property name="Mem1" column="mem1" type="String">
+    </property>
+    <property name="Flag" column="flag" type="int">
+    </property>
+    <property name="ToErpFlag" column="toErpflag" type="String">
+    </property>
+    <property name="Matrname" column="matrname" type="String">
+    </property>
+    <property name="Date" column="date" type="datetime">
+    </property>
+    <property name="Status" column="status" type="String">
+    </property>
+  </class>
+</hibernate-mapping>

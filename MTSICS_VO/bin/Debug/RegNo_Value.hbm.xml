@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" namespace="MTSICS_VO" assembly="MTSICS_VO">
+  <class name="RegNo_Value" table="regno_value">
+    <composite-id name="Id" class="RegNo_Value_PK">
+      <key-property name="RegNo" type="string">
+        <column name="REGNO" length="30"/>
+      </key-property>
+      <key-property name="ProjectNo" type="string">
+        <column name="PROJECTNO" length="10"/>
+      </key-property>
+    </composite-id>
+    
+    <property name="ProjectValue">
+      <column name="PROJECTVALUE" sql-type="decimal"></column>
+    </property>
+
+    <property name="ScaleDateTime">
+      <column name="SCALEDATE" sql-type="datetime"></column>
+    </property>
+  </class>
+</hibernate-mapping>

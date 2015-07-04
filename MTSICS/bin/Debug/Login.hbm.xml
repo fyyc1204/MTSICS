@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" namespace="MTSICS_VO" assembly="MTSICS_VO">
+  <class name="Login" table="login">
+
+
+    <id name="UserName" column="username" type="String"/>
+
+
+    <property name="PassWord" column="passWord" type="String"/>
+    <property name="Flag" column="flag" type="String"/>
+    <property name="UserNo" column="userno" type="String"/>
+    <property name="BanBie" column="banbie" type="String"/>
+    <!--<property name="Id" column="id" type="int"/>-->
+
+
+  </class>
+</hibernate-mapping>

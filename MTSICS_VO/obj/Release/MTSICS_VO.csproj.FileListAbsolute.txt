@@ -1,0 +1,8 @@
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS_VO\bin\Release\RegNo_DI.hbm.xml
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS_VO\bin\Release\RegNo_Value.hbm.xml
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS_VO\bin\Release\Scale_Temp.hbm.xml
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS_VO\bin\Release\MTSICS_VO.dll
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS_VO\bin\Release\MTSICS_VO.pdb
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS_VO\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS_VO\obj\Release\MTSICS_VO.dll
+C:\Documents and Settings\dell\my documents\visual studio 2010\Projects\MTSICS\MTSICS_VO\obj\Release\MTSICS_VO.pdb

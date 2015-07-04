@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" namespace="MTSICS_VO" assembly="MTSICS_VO">
+  <class name="Scale_Value" table="Scale_Value">
+   
+
+    <composite-id name="Id" class="Scale_Value_PK">
+
+      <key-property name="RegNo" column="regno" type="String"/>
+
+      <key-property name="EleNo" column="eleno" type="String"/>
+
+    </composite-id>
+  
+    <property name="WgtOne" column="wgtOne" type="Decimal">
+    </property>
+    <property name="WgtTwo" column="wgtTwo" type="Decimal">
+    </property>
+    <property name="WgtThree" column="wgtThree" type="Decimal">
+    </property>
+    <property name="WgtFinal" column="wgtFinal" type="Decimal">
+    </property>
+    <property name="WgtFinalTwo" column="wgtFinalTwo" type="Decimal">
+    </property>
+    <property name="WgtFinalThree" column="wgtFinalThree" type="Decimal">
+    </property>
+    <property name="WgtFinalFour" column="wgtFinalFour" type="Decimal">
+    </property>
+    <property name="CreatePer" column="createPer" type="String">
+    </property>
+    
+ 
+  </class>
+</hibernate-mapping>
